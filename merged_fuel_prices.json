@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T08:52:42.798887Z",
+  "updated_at": "2026-04-15T09:19:55.758734Z",
   "sources": [
     "america",
     "asia",
@@ -27,7 +27,8 @@
           "value": "2277.17"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AR"
     },
     "Aruba": {
       "continent": "americas",
@@ -48,7 +49,8 @@
           "value": "2.47"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AW"
     },
     "Bahamas": {
       "continent": "americas",
@@ -69,7 +71,8 @@
           "value": "1.48"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BS"
     },
     "Barbados": {
       "continent": "americas",
@@ -90,7 +93,8 @@
           "value": "3.23"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BB"
     },
     "Belize": {
       "continent": "americas",
@@ -111,7 +115,8 @@
           "value": "3.95"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BZ"
     },
     "Bolivia": {
       "continent": "americas",
@@ -132,7 +137,8 @@
           "value": "9.82"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BO"
     },
     "Brazil": {
       "continent": "americas",
@@ -153,7 +159,8 @@
           "value": "7.47"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BR"
     },
     "Canada": {
       "continent": "americas",
@@ -174,7 +181,8 @@
           "value": "2.35"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CA"
     },
     "Cayman Islands": {
       "continent": "americas",
@@ -195,7 +203,8 @@
           "value": "1.2"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "KY"
     },
     "Chile": {
       "continent": "americas",
@@ -216,7 +225,8 @@
           "value": "1389.51"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CL"
     },
     "Colombia": {
       "continent": "americas",
@@ -237,7 +247,8 @@
           "value": "2877.88"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CO"
     },
     "Costa Rica": {
       "continent": "americas",
@@ -258,7 +269,8 @@
           "value": "532.66"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CR"
     },
     "Cuba": {
       "continent": "americas",
@@ -279,7 +291,8 @@
           "value": "26.45"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CU"
     },
     "Curaçao": {
       "continent": "americas",
@@ -300,7 +313,8 @@
           "value": "2.25"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CW"
     },
     "Dominica": {
       "continent": "americas",
@@ -321,7 +335,8 @@
           "value": "4.35"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "DM"
     },
     "Dominican Republic": {
       "continent": "americas",
@@ -342,7 +357,8 @@
           "value": "64.31"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "DO"
     },
     "Ecuador": {
       "continent": "americas",
@@ -363,7 +379,8 @@
           "value": "0.75"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "EC"
     },
     "El Salvador": {
       "continent": "americas",
@@ -384,7 +401,8 @@
           "value": "1.1"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SV"
     },
     "Grenada": {
       "continent": "americas",
@@ -405,7 +423,8 @@
           "value": "3.64"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "GD"
     },
     "Guatemala": {
       "continent": "americas",
@@ -426,7 +445,8 @@
           "value": "11.88"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "GT"
     },
     "Guyana": {
       "continent": "americas",
@@ -447,7 +467,8 @@
           "value": "210.81"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "GY"
     },
     "Haiti": {
       "continent": "americas",
@@ -468,7 +489,8 @@
           "value": "226.14"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "HT"
     },
     "Honduras": {
       "continent": "americas",
@@ -489,7 +511,8 @@
           "value": "33.47"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "HN"
     },
     "Jamaica": {
       "continent": "americas",
@@ -510,7 +533,8 @@
           "value": "183.56"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "JM"
     },
     "Mexico": {
       "continent": "americas",
@@ -531,7 +555,8 @@
           "value": "28.47"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MX"
     },
     "Nicaragua": {
       "continent": "americas",
@@ -552,7 +577,8 @@
           "value": "43.79"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "NI"
     },
     "Panama": {
       "continent": "americas",
@@ -573,7 +599,8 @@
           "value": "1.37"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "PA"
     },
     "Paraguay": {
       "continent": "americas",
@@ -594,7 +621,8 @@
           "value": "8890.12"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "PY"
     },
     "Peru": {
       "continent": "americas",
@@ -615,7 +643,8 @@
           "value": "5.74"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "PE"
     },
     "Puerto Rico": {
       "continent": "americas",
@@ -636,7 +665,8 @@
           "value": "1.39"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "PR"
     },
     "Saint Lucia": {
       "continent": "americas",
@@ -657,7 +687,8 @@
           "value": "3.61"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "LC"
     },
     "Suriname": {
       "continent": "americas",
@@ -678,7 +709,8 @@
           "value": "53.83"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SR"
     },
     "Trinidad And Tobago": {
       "continent": "americas",
@@ -699,7 +731,8 @@
           "value": "4.47"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "TT"
     },
     "United States": {
       "continent": "americas",
@@ -720,7 +753,8 @@
           "value": "1.52"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "US"
     },
     "Uruguay": {
       "continent": "americas",
@@ -741,7 +775,8 @@
           "value": "50.54"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "UY"
     },
     "Venezuela": {
       "continent": "americas",
@@ -762,7 +797,8 @@
           "value": "0.0"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "VE"
     },
     "Afghanistan": {
       "continent": "asia",
@@ -783,7 +819,8 @@
           "value": "63.13"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AF"
     },
     "Armenia": {
       "continent": "asia",
@@ -804,7 +841,8 @@
           "value": "518.86"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AM"
     },
     "Azerbaijan": {
       "continent": "asia",
@@ -825,7 +863,8 @@
           "value": "1.09"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AZ"
     },
     "Bahrain": {
       "continent": "asia",
@@ -846,7 +885,8 @@
           "value": "0.22"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BH"
     },
     "Bangladesh": {
       "continent": "asia",
@@ -867,7 +907,8 @@
           "value": "99.42"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BD"
     },
     "Bhutan": {
       "continent": "asia",
@@ -888,7 +929,8 @@
           "value": "93.11"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BT"
     },
     "Cambodia": {
       "continent": "asia",
@@ -909,7 +951,8 @@
           "value": "8221.87"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "KH"
     },
     "China": {
       "continent": "asia",
@@ -930,7 +973,8 @@
           "value": "8.26"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CN"
     },
     "Hong Kong": {
       "continent": "asia",
@@ -951,7 +995,8 @@
           "value": "35.22"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "HK"
     },
     "India": {
       "continent": "asia",
@@ -972,7 +1017,8 @@
           "value": "90.92"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "IN"
     },
     "Indonesia": {
       "continent": "asia",
@@ -993,7 +1039,8 @@
           "value": "14696.36"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "ID"
     },
     "Iran": {
       "continent": "asia",
@@ -1014,7 +1061,8 @@
           "value": "15344.53"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "IR"
     },
     "Iraq": {
       "continent": "asia",
@@ -1028,7 +1076,8 @@
         }
       },
       "diesel": null,
-      "lpg": null
+      "lpg": null,
+      "country_code": "IQ"
     },
     "Israel": {
       "continent": "asia",
@@ -1049,7 +1098,8 @@
           "value": "7.66"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "IL"
     },
     "Japan": {
       "continent": "asia",
@@ -1070,7 +1120,8 @@
           "value": "157.15"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "JP"
     },
     "Jordan": {
       "continent": "asia",
@@ -1091,7 +1142,8 @@
           "value": "0.73"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "JO"
     },
     "Kazakhstan": {
       "continent": "asia",
@@ -1112,7 +1164,8 @@
           "value": "294.81"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "KZ"
     },
     "Kuwait": {
       "continent": "asia",
@@ -1133,7 +1186,8 @@
           "value": "0.12"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "KW"
     },
     "Kyrgyzstan": {
       "continent": "asia",
@@ -1154,7 +1208,8 @@
           "value": "81.01"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "KG"
     },
     "Laos": {
       "continent": "asia",
@@ -1175,7 +1230,8 @@
           "value": "51064.05"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "LA"
     },
     "Lebanon": {
       "continent": "asia",
@@ -1196,7 +1252,8 @@
           "value": "110020.58"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "LB"
     },
     "Malaysia": {
       "continent": "asia",
@@ -1217,7 +1274,8 @@
           "value": "6.0"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MY"
     },
     "Maldives": {
       "continent": "asia",
@@ -1238,7 +1296,8 @@
           "value": "17.62"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MV"
     },
     "Mongolia": {
       "continent": "asia",
@@ -1259,7 +1318,8 @@
           "value": "4608.11"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MN"
     },
     "Myanmar": {
       "continent": "asia",
@@ -1280,7 +1340,8 @@
           "value": "3818.08"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MM"
     },
     "Nepal": {
       "continent": "asia",
@@ -1301,7 +1362,8 @@
           "value": "183.95"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "NP"
     },
     "Oman": {
       "continent": "asia",
@@ -1322,7 +1384,8 @@
           "value": "0.26"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "OM"
     },
     "Pakistan": {
       "continent": "asia",
@@ -1343,7 +1406,8 @@
           "value": "523.57"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "PK"
     },
     "Philippines": {
       "continent": "asia",
@@ -1364,7 +1428,8 @@
           "value": "129.73"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "PH"
     },
     "Qatar": {
       "continent": "asia",
@@ -1385,7 +1450,8 @@
           "value": "2.05"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "QA"
     },
     "Saudi Arabia": {
       "continent": "asia",
@@ -1406,7 +1472,8 @@
           "value": "1.81"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SA"
     },
     "Singapore": {
       "continent": "asia",
@@ -1427,7 +1494,8 @@
           "value": "4.16"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SG"
     },
     "South Korea": {
       "continent": "asia",
@@ -1448,7 +1516,8 @@
           "value": "1980.32"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "KR"
     },
     "Sri Lanka": {
       "continent": "asia",
@@ -1469,7 +1538,8 @@
           "value": "448.38"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "LK"
     },
     "Syria": {
       "continent": "asia",
@@ -1490,7 +1560,8 @@
           "value": "89.14"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SY"
     },
     "Taiwan": {
       "continent": "asia",
@@ -1511,7 +1582,8 @@
           "value": "30.91"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "TW"
     },
     "Thailand": {
       "continent": "asia",
@@ -1532,7 +1604,8 @@
           "value": "48.3"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "TH"
     },
     "Turkmenistan": {
       "continent": "asia",
@@ -1553,7 +1626,8 @@
           "value": "0.98"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "TM"
     },
     "United Arab Emirates": {
       "continent": "asia",
@@ -1574,7 +1648,8 @@
           "value": "4.7"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AE"
     },
     "Uzbekistan": {
       "continent": "asia",
@@ -1595,7 +1670,8 @@
           "value": "13098.04"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "UZ"
     },
     "Vietnam": {
       "continent": "asia",
@@ -1616,7 +1692,8 @@
           "value": "45242.19"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "VN"
     },
     "Albania": {
       "continent": "europe",
@@ -1637,7 +1714,8 @@
           "value": "211.96"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AL"
     },
     "Andorra": {
       "continent": "europe",
@@ -1658,7 +1736,8 @@
           "value": "1.8"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AD"
     },
     "Austria": {
       "continent": "europe",
@@ -1679,7 +1758,8 @@
           "value": "2.23"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "AT"
     },
     "Belarus": {
       "continent": "europe",
@@ -1700,7 +1780,8 @@
           "value": "2.64"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BY"
     },
     "Belgium": {
       "continent": "europe",
@@ -1721,7 +1802,8 @@
           "value": "2.31"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BE"
     },
     "Bosnia and Herzegovina": {
       "continent": "europe",
@@ -1742,7 +1824,8 @@
           "value": "3.34"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BA"
     },
     "Bulgaria": {
       "continent": "europe",
@@ -1763,7 +1846,8 @@
           "value": "3.31"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "BG"
     },
     "Croatia": {
       "continent": "europe",
@@ -1784,7 +1868,8 @@
           "value": "1.87"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "HR"
     },
     "Cyprus": {
       "continent": "europe",
@@ -1805,7 +1890,8 @@
           "value": "1.84"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CY"
     },
     "Czechia": {
       "continent": "europe",
@@ -1826,7 +1912,8 @@
           "value": "48.24"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CZ"
     },
     "Denmark": {
       "continent": "europe",
@@ -1847,7 +1934,8 @@
           "value": "19.13"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "DK"
     },
     "Estonia": {
       "continent": "europe",
@@ -1868,7 +1956,8 @@
           "value": "2.03"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "EE"
     },
     "Finland": {
       "continent": "europe",
@@ -1889,7 +1978,8 @@
           "value": "2.26"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "FI"
     },
     "France": {
       "continent": "europe",
@@ -1910,7 +2000,8 @@
           "value": "2.23"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "FR"
     },
     "Georgia": {
       "continent": "europe",
@@ -1931,7 +2022,8 @@
           "value": "3.88"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "GE"
     },
     "Germany": {
       "continent": "europe",
@@ -1952,7 +2044,8 @@
           "value": "2.43"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "DE"
     },
     "Greece": {
       "continent": "europe",
@@ -1973,7 +2066,8 @@
           "value": "2.07"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "GR"
     },
     "Hungary": {
       "continent": "europe",
@@ -1994,7 +2088,8 @@
           "value": "611.27"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "HU"
     },
     "Iceland": {
       "continent": "europe",
@@ -2015,7 +2110,8 @@
           "value": "254.19"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "IS"
     },
     "Ireland": {
       "continent": "europe",
@@ -2036,7 +2132,8 @@
           "value": "2.1"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "IE"
     },
     "Italy": {
       "continent": "europe",
@@ -2057,7 +2154,8 @@
           "value": "2.09"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "IT"
     },
     "Latvia": {
       "continent": "europe",
@@ -2078,7 +2176,8 @@
           "value": "2.06"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "LV"
     },
     "Liechtenstein": {
       "continent": "europe",
@@ -2099,7 +2198,8 @@
           "value": "2.25"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "LI"
     },
     "Lithuania": {
       "continent": "europe",
@@ -2120,7 +2220,8 @@
           "value": "2.18"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "LT"
     },
     "Luxembourg": {
       "continent": "europe",
@@ -2141,7 +2242,8 @@
           "value": "2.19"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "LU"
     },
     "Malta": {
       "continent": "europe",
@@ -2162,7 +2264,8 @@
           "value": "1.21"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MT"
     },
     "Moldova": {
       "continent": "europe",
@@ -2183,7 +2286,8 @@
           "value": "33.72"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MD"
     },
     "Monaco": {
       "continent": "europe",
@@ -2204,7 +2308,8 @@
           "value": "1.97"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MC"
     },
     "Montenegro": {
       "continent": "europe",
@@ -2225,7 +2330,8 @@
           "value": "1.77"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "ME"
     },
     "Netherlands": {
       "continent": "europe",
@@ -2246,7 +2352,8 @@
           "value": "2.58"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "NL"
     },
     "North Macedonia": {
       "continent": "europe",
@@ -2267,7 +2374,8 @@
           "value": "97.36"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "MK"
     },
     "Norway": {
       "continent": "europe",
@@ -2288,7 +2396,8 @@
           "value": "24.89"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "NO"
     },
     "Poland": {
       "continent": "europe",
@@ -2309,7 +2418,8 @@
           "value": "7.64"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "PL"
     },
     "Portugal": {
       "continent": "europe",
@@ -2330,7 +2440,8 @@
           "value": "2.13"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "PT"
     },
     "Romania": {
       "continent": "europe",
@@ -2351,7 +2462,8 @@
           "value": "10.29"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "RO"
     },
     "Russia": {
       "continent": "europe",
@@ -2372,7 +2484,8 @@
           "value": "76.02"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "RU"
     },
     "San Marino": {
       "continent": "europe",
@@ -2393,7 +2506,8 @@
           "value": "1.93"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SM"
     },
     "Serbia": {
       "continent": "europe",
@@ -2414,7 +2528,8 @@
           "value": "212.57"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "RS"
     },
     "Slovakia": {
       "continent": "europe",
@@ -2435,7 +2550,8 @@
           "value": "1.75"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SK"
     },
     "Slovenia": {
       "continent": "europe",
@@ -2456,7 +2572,8 @@
           "value": "1.77"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SI"
     },
     "Spain": {
       "continent": "europe",
@@ -2477,7 +2594,8 @@
           "value": "1.81"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "ES"
     },
     "Sweden": {
       "continent": "europe",
@@ -2498,7 +2616,8 @@
           "value": "23.83"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "SE"
     },
     "Switzerland": {
       "continent": "europe",
@@ -2519,7 +2638,8 @@
           "value": "2.18"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "CH"
     },
     "Turkey": {
       "continent": "europe",
@@ -2540,7 +2660,8 @@
           "value": "69.34"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "TR"
     },
     "Ukraine": {
       "continent": "europe",
@@ -2561,7 +2682,8 @@
           "value": "90.3"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "UA"
     },
     "United Kingdom": {
       "continent": "europe",
@@ -2582,7 +2704,8 @@
           "value": "1.86"
         }
       },
-      "lpg": null
+      "lpg": null,
+      "country_code": "GB"
     },
     "Egypt": {
       "continent": "world",
@@ -2596,6 +2719,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "Nigeria": {
@@ -2610,6 +2734,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "Sudan": {
@@ -2624,6 +2749,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "Tanzania": {
@@ -2638,6 +2764,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "South Africa": {
@@ -2652,6 +2779,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "Ghana": {
@@ -2666,6 +2794,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "Kenya": {
@@ -2680,6 +2809,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "Macedonia": {
@@ -2694,6 +2824,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "Australia": {
@@ -2708,6 +2839,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": "AU",
       "data_date": "2026-03-01"
     },
     "New Zealand": {
@@ -2722,6 +2854,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": "NZ",
       "data_date": "2026-03-01"
     },
     "Czech Republic": {
@@ -2736,6 +2869,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     },
     "Zimbabwe": {
@@ -2750,6 +2884,7 @@
       },
       "diesel": null,
       "lpg": null,
+      "country_code": null,
       "data_date": "2026-03-01"
     }
   }
