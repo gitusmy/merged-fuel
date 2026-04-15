@@ -82,6 +82,41 @@ COUNTRY_TO_CURRENCY = {
     "Namibia": "NAD", "Rwanda": "RWF", "Uganda": "UGX", "Mozambique": "MZN",
 }
 
+COUNTRY_CODE = {
+    "Germany": "DE", "France": "FR", "Italy": "IT", "Spain": "ES", "Netherlands": "NL",
+    "Belgium": "BE", "Austria": "AT", "Portugal": "PT", "Ireland": "IE", "Finland": "FI",
+    "Greece": "GR", "Slovenia": "SI", "Croatia": "HR", "Slovakia": "SK", "Luxembourg": "LU",
+    "Estonia": "EE", "Latvia": "LV", "Lithuania": "LT", "Cyprus": "CY", "Malta": "MT",
+    "Andorra": "AD", "Monaco": "MC", "San Marino": "SM", "Montenegro": "ME",
+    "United Kingdom": "GB", "Poland": "PL", "Czechia": "CZ", "Hungary": "HU",
+    "Romania": "RO", "Bulgaria": "BG", "Sweden": "SE", "Denmark": "DK",
+    "Norway": "NO", "Iceland": "IS", "Switzerland": "CH", "Albania": "AL",
+    "Serbia": "RS", "Turkey": "TR", "Ukraine": "UA", "Russia": "RU", "Belarus": "BY",
+    "Georgia": "GE", "Moldova": "MD", "Bosnia and Herzegovina": "BA",
+    "North Macedonia": "MK", "Liechtenstein": "LI", "United States": "US",
+    "Canada": "CA", "Mexico": "MX", "Brazil": "BR", "Argentina": "AR",
+    "Chile": "CL", "Colombia": "CO", "Peru": "PE", "Uruguay": "UY",
+    "Venezuela": "VE", "Ecuador": "EC", "El Salvador": "SV", "Costa Rica": "CR",
+    "Guatemala": "GT", "Honduras": "HN", "Nicaragua": "NI", "Panama": "PA",
+    "Paraguay": "PY", "Dominican Republic": "DO", "Jamaica": "JM",
+    "Trinidad And Tobago": "TT", "Barbados": "BB", "Bahamas": "BS",
+    "Belize": "BZ", "Guyana": "GY", "Suriname": "SR", "Haiti": "HT",
+    "Puerto Rico": "PR", "Cuba": "CU", "Cayman Islands": "KY",
+    "Curaçao": "CW", "Aruba": "AW", "Dominica": "DM", "Grenada": "GD",
+    "Saint Lucia": "LC", "Bolivia": "BO", "Japan": "JP", "China": "CN",
+    "South Korea": "KR", "India": "IN", "Indonesia": "ID", "Thailand": "TH",
+    "Vietnam": "VN", "Philippines": "PH", "Malaysia": "MY", "Singapore": "SG",
+    "Hong Kong": "HK", "Taiwan": "TW", "Pakistan": "PK", "Bangladesh": "BD",
+    "Sri Lanka": "LK", "Nepal": "NP", "Myanmar": "MM", "Cambodia": "KH",
+    "Laos": "LA", "Kazakhstan": "KZ", "Uzbekistan": "UZ", "Kyrgyzstan": "KG",
+    "Armenia": "AM", "Azerbaijan": "AZ", "Turkmenistan": "TM", "Mongolia": "MN",
+    "Afghanistan": "AF", "Iran": "IR", "Iraq": "IQ", "Israel": "IL",
+    "Jordan": "JO", "Lebanon": "LB", "Syria": "SY", "Kuwait": "KW",
+    "Saudi Arabia": "SA", "Qatar": "QA", "Bahrain": "BH", "Oman": "OM",
+    "United Arab Emirates": "AE", "Yemen": "YE", "Maldives": "MV",
+    "Bhutan": "BT", "Australia": "AU", "New Zealand": "NZ",
+}
+
 def fetch_json(url):
     with urllib.request.urlopen(url) as response:
         return json.loads(response.read().decode())
@@ -300,6 +335,7 @@ def merge_data(sources_data, existing_data=None):
                     merged[country] = get_freshest_data(source_name, merged[country], data)
     
     for country, data in merged.items():
+        data["country_code"] = COUNTRY_CODE.get(country)
         d = data.pop("_data_date", None)
         ref = data.pop("_reference", None)
         if d:
