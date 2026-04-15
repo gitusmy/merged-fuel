@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:19:55.758734Z",
+  "updated_at": "2026-04-15T09:38:19.052394Z",
   "sources": [
     "america",
     "asia",
@@ -2719,7 +2719,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "EG",
       "data_date": "2026-03-01"
     },
     "Nigeria": {
@@ -2734,7 +2734,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "NG",
       "data_date": "2026-03-01"
     },
     "Sudan": {
@@ -2749,7 +2749,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "SD",
       "data_date": "2026-03-01"
     },
     "Tanzania": {
@@ -2764,7 +2764,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "TZ",
       "data_date": "2026-03-01"
     },
     "South Africa": {
@@ -2779,7 +2779,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "ZA",
       "data_date": "2026-03-01"
     },
     "Ghana": {
@@ -2794,7 +2794,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "GH",
       "data_date": "2026-03-01"
     },
     "Kenya": {
@@ -2809,7 +2809,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "KE",
       "data_date": "2026-03-01"
     },
     "Macedonia": {
@@ -2824,7 +2824,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "MK",
       "data_date": "2026-03-01"
     },
     "Australia": {
@@ -2869,7 +2869,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "CZ",
       "data_date": "2026-03-01"
     },
     "Zimbabwe": {
@@ -2884,7 +2884,7 @@
       },
       "diesel": null,
       "lpg": null,
-      "country_code": null,
+      "country_code": "ZW",
       "data_date": "2026-03-01"
     }
   }
