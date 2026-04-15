@@ -93,7 +93,7 @@ COUNTRY_CODE = {
     "Norway": "NO", "Iceland": "IS", "Switzerland": "CH", "Albania": "AL",
     "Serbia": "RS", "Turkey": "TR", "Ukraine": "UA", "Russia": "RU", "Belarus": "BY",
     "Georgia": "GE", "Moldova": "MD", "Bosnia and Herzegovina": "BA",
-    "North Macedonia": "MK", "Liechtenstein": "LI", "United States": "US",
+    "Macedonia": "MK", "North Macedonia": "MK", "Czech Republic": "CZ", "Liechtenstein": "LI", "United States": "US",
     "Canada": "CA", "Mexico": "MX", "Brazil": "BR", "Argentina": "AR",
     "Chile": "CL", "Colombia": "CO", "Peru": "PE", "Uruguay": "UY",
     "Venezuela": "VE", "Ecuador": "EC", "El Salvador": "SV", "Costa Rica": "CR",
@@ -115,6 +115,13 @@ COUNTRY_CODE = {
     "Saudi Arabia": "SA", "Qatar": "QA", "Bahrain": "BH", "Oman": "OM",
     "United Arab Emirates": "AE", "Yemen": "YE", "Maldives": "MV",
     "Bhutan": "BT", "Australia": "AU", "New Zealand": "NZ",
+    "Nigeria": "NG", "South Africa": "ZA", "Egypt": "EG", "Morocco": "MA",
+    "Algeria": "DZ", "Tunisia": "TN", "Kenya": "KE", "Ghana": "GH",
+    "Tanzania": "TZ", "Ethiopia": "ET", "Sudan": "SD", "Zimbabwe": "ZW",
+    "Zambia": "ZM", "Botswana": "BW", "Namibia": "NA", "Rwanda": "RW",
+    "Uganda": "UG", "Mozambique": "MZ", "Angola": "AO", "Senegal": "SN",
+    "Mali": "ML", "Burkina Faso": "BF", "Niger": "NE", "Cameroon": "CM",
+    "Ivory Coast": "CI", "Madagascar": "MG", "Chad": "TD", "Libya": "LY",
 }
 
 def fetch_json(url):
