@@ -387,6 +387,9 @@ def main():
     rates_data = fetch_json(URLS["currency_rates"])
     rates = rates_data.get("rates", {})
     
+    with open("currency_rates.json", "w", encoding="utf-8") as f:
+        json.dump(rates_data, f, indent=2, ensure_ascii=False)
+    
     try:
         with open(input_file, "r", encoding="utf-8") as f:
             content = f.read().strip()
