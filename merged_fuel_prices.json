@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T20:47:33.661704Z",
+  "updated_at": "2026-05-02T21:42:02.538779Z",
   "sources": [
     "america",
     "asia",
@@ -37,6 +37,12 @@
       },
       "country_code": "AR",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.09",
+          "diesel": "1.46",
+          "lpg": "0.51"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.26",
@@ -80,6 +86,12 @@
       "country_code": "AW",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.18",
+          "diesel": "1.17",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.18",
           "diesel": "1.17",
@@ -121,6 +133,12 @@
       "lpg": null,
       "country_code": "BS",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.25",
+          "diesel": "1.23",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.25",
@@ -164,6 +182,12 @@
       "country_code": "BB",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.58",
+          "diesel": "1.34",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.58",
           "diesel": "1.34",
@@ -206,6 +230,12 @@
       "country_code": "BZ",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.64",
+          "diesel": "1.64",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.64",
           "diesel": "1.63",
@@ -247,6 +277,12 @@
       "lpg": null,
       "country_code": "BO",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.86",
+          "diesel": "1.21",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.86",
@@ -297,6 +333,12 @@
       "country_code": "BR",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.14",
+          "diesel": "1.23",
+          "lpg": "0.77"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.14",
           "diesel": "1.24",
@@ -339,6 +381,12 @@
       "country_code": "CA",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.27",
+          "diesel": "1.35",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.19",
           "diesel": "1.28",
@@ -380,6 +428,12 @@
       "lpg": null,
       "country_code": "KY",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.44",
+          "diesel": "1.51",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.36",
@@ -430,6 +484,12 @@
       "country_code": "CL",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.44",
+          "diesel": "1.3",
+          "lpg": "0.6"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.47",
           "diesel": "1.37",
@@ -471,6 +531,12 @@
       "lpg": null,
       "country_code": "CO",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.96",
+          "diesel": "0.69",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.98",
@@ -514,6 +580,12 @@
       "country_code": "CR",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.19",
+          "diesel": "1.06",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.19",
           "diesel": "1.06",
@@ -555,6 +627,12 @@
       "lpg": null,
       "country_code": "CU",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.11",
+          "diesel": "0.94",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.11",
@@ -598,6 +676,12 @@
       "country_code": "CW",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.03",
+          "diesel": "1.07",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.03",
           "diesel": "1.07",
@@ -639,6 +723,12 @@
       "lpg": null,
       "country_code": "DM",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.09",
+          "diesel": "1.12",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.09",
@@ -682,6 +772,12 @@
       "country_code": "DO",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.03",
+          "diesel": "0.9",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.03",
           "diesel": "0.91",
@@ -723,6 +819,12 @@
       "lpg": null,
       "country_code": "EC",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.68",
+          "diesel": "0.67",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.68",
@@ -766,6 +868,12 @@
       "country_code": "SV",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.05",
+          "diesel": "0.99",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.03",
           "diesel": "0.97",
@@ -807,6 +915,12 @@
       "lpg": null,
       "country_code": "GD",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.18",
+          "diesel": "1.18",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.18",
@@ -850,6 +964,12 @@
       "country_code": "GT",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.25",
+          "diesel": "1.28",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.18",
           "diesel": "1.25",
@@ -892,6 +1012,12 @@
       "country_code": "GY",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.85",
+          "diesel": "0.86",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.85",
           "diesel": "0.86",
@@ -933,6 +1059,12 @@
       "lpg": null,
       "country_code": "HT",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.25",
+          "diesel": "1.47",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.25",
@@ -983,6 +1115,12 @@
       "country_code": "HN",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.16",
+          "diesel": "1.18",
+          "lpg": "0.41"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.15",
           "diesel": "1.17",
@@ -1024,6 +1162,12 @@
       "lpg": null,
       "country_code": "JM",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.02",
+          "diesel": "1.02",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.99",
@@ -1067,6 +1211,12 @@
       "country_code": "MX",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.16",
+          "diesel": "1.38",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.39",
           "diesel": "1.39",
@@ -1109,6 +1259,12 @@
       "country_code": "NI",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.14",
+          "diesel": "1.01",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.14",
           "diesel": "1.01",
@@ -1150,6 +1306,12 @@
       "lpg": null,
       "country_code": "PA",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.05",
+          "diesel": "1.17",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.05",
@@ -1200,6 +1362,12 @@
       "country_code": "PY",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.94",
+          "diesel": "1.02",
+          "lpg": "0.58"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.93",
           "diesel": "1.0",
@@ -1249,6 +1417,12 @@
       "country_code": "PE",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.43",
+          "diesel": "1.58",
+          "lpg": "0.54"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.46",
           "diesel": "1.62",
@@ -1290,6 +1464,12 @@
       "lpg": null,
       "country_code": "PR",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.1",
+          "diesel": "1.15",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.04",
@@ -1333,6 +1513,12 @@
       "country_code": "LC",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.11",
+          "diesel": "1.11",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.11",
           "diesel": "1.11",
@@ -1374,6 +1560,12 @@
       "lpg": null,
       "country_code": "SR",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.1",
+          "diesel": "1.22",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.1",
@@ -1417,6 +1609,12 @@
       "country_code": "TT",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.97",
+          "diesel": "0.55",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.98",
           "diesel": "0.56",
@@ -1458,6 +1656,12 @@
       "lpg": null,
       "country_code": "US",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.15",
+          "diesel": "1.2",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.13",
@@ -1501,6 +1705,12 @@
       "country_code": "UY",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.77",
+          "diesel": "1.09",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.77",
           "diesel": "1.09",
@@ -1542,6 +1752,12 @@
       "lpg": null,
       "country_code": "VE",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.03",
+          "diesel": "0.0",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.03",
@@ -1592,6 +1808,12 @@
       "country_code": "AF",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.9",
+          "diesel": "0.84",
+          "lpg": "0.77"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.92",
           "diesel": "0.86",
@@ -1634,6 +1856,12 @@
       },
       "country_code": "AM",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.27",
+          "diesel": "1.36",
+          "lpg": "0.58"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.26",
@@ -1678,6 +1906,12 @@
       "country_code": "AZ",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.58",
+          "diesel": "0.55",
+          "lpg": "0.35"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.58",
           "diesel": "0.55",
@@ -1713,6 +1947,12 @@
       "lpg": null,
       "country_code": "BH",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.57",
+          "diesel": "0.5",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.57",
@@ -1750,6 +1990,12 @@
       "country_code": "BD",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.97",
+          "diesel": "0.8",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.98",
           "diesel": "0.8",
@@ -1785,6 +2031,12 @@
       "lpg": null,
       "country_code": "BT",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.93",
+          "diesel": "0.89",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.94",
@@ -1822,6 +2074,12 @@
       "country_code": "KH",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.32",
+          "diesel": "1.15",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.27",
           "diesel": "1.22",
@@ -1858,6 +2116,12 @@
       "country_code": "CN",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.14",
+          "diesel": "1.02",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.2",
           "diesel": "1.08",
@@ -1893,6 +2157,12 @@
       "lpg": null,
       "country_code": "HK",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "3.55",
+          "diesel": "4.01",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "3.54",
@@ -1937,6 +2207,12 @@
       "country_code": "IN",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.91",
+          "diesel": "0.82",
+          "lpg": "0.6"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.92",
           "diesel": "0.83",
@@ -1972,6 +2248,12 @@
       "lpg": null,
       "country_code": "ID",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.61",
+          "diesel": "0.72",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.62",
@@ -2009,6 +2291,12 @@
       "country_code": "IR",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.02",
+          "diesel": "0.01",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.02",
           "diesel": "0.01",
@@ -2037,6 +2325,12 @@
       "lpg": null,
       "country_code": "IQ",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.55",
+          "diesel": null,
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.55",
@@ -2081,6 +2375,12 @@
       "country_code": "IL",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.4",
+          "diesel": "2.28",
+          "lpg": "1.39"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "2.36",
           "diesel": "2.25",
@@ -2116,6 +2416,12 @@
       "lpg": null,
       "country_code": "JP",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.91",
+          "diesel": "0.85",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.9",
@@ -2153,6 +2459,12 @@
       "country_code": "JO",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.45",
+          "diesel": "0.87",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.45",
           "diesel": "0.87",
@@ -2188,6 +2500,12 @@
       "lpg": null,
       "country_code": "KZ",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.55",
+          "diesel": "0.62",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.55",
@@ -2225,6 +2543,12 @@
       "country_code": "KW",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.29",
+          "diesel": "0.32",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.29",
           "diesel": "0.32",
@@ -2261,6 +2585,12 @@
       "country_code": "KG",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.83",
+          "diesel": "0.87",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.82",
           "diesel": "0.84",
@@ -2296,6 +2626,12 @@
       "lpg": null,
       "country_code": "LA",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.52",
+          "diesel": "1.85",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.5",
@@ -2340,6 +2676,12 @@
       "country_code": "LB",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.04",
+          "diesel": "1.03",
+          "lpg": "0.71"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.03",
           "diesel": "1.07",
@@ -2376,6 +2718,12 @@
       "country_code": "MY",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.83",
+          "diesel": "1.1",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.87",
           "diesel": "1.29",
@@ -2411,6 +2759,12 @@
       "lpg": null,
       "country_code": "MV",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.89",
+          "diesel": "0.97",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.89",
@@ -2455,6 +2809,12 @@
       "country_code": "MN",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.3",
+          "diesel": "1.41",
+          "lpg": "0.63"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.3",
           "diesel": "1.41",
@@ -2490,6 +2850,12 @@
       "lpg": null,
       "country_code": "MM",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.33",
+          "diesel": "1.56",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.35",
@@ -2527,6 +2893,12 @@
       "country_code": "NP",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.23",
+          "diesel": "1.33",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.24",
           "diesel": "1.34",
@@ -2563,6 +2935,12 @@
       "country_code": "OM",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.53",
+          "diesel": "0.57",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.53",
           "diesel": "0.57",
@@ -2598,6 +2976,12 @@
       "lpg": null,
       "country_code": "PK",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.21",
+          "diesel": "1.17",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.12",
@@ -2642,6 +3026,12 @@
       "country_code": "PH",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.17",
+          "diesel": "1.4",
+          "lpg": "0.71"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.25",
           "diesel": "1.75",
@@ -2677,6 +3067,12 @@
       "lpg": null,
       "country_code": "QA",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.48",
+          "diesel": "0.48",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.48",
@@ -2721,6 +3117,12 @@
       "country_code": "SA",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.53",
+          "diesel": "0.41",
+          "lpg": "0.25"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.53",
           "diesel": "0.41",
@@ -2756,6 +3158,12 @@
       "lpg": null,
       "country_code": "SG",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.06",
+          "diesel": "2.79",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "2.07",
@@ -2800,6 +3208,12 @@
       "country_code": "KR",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.16",
+          "diesel": "1.16",
+          "lpg": "0.6"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.15",
           "diesel": "1.15",
@@ -2836,6 +3250,12 @@
       "country_code": "LK",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.22",
+          "diesel": "1.19",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.22",
           "diesel": "1.19",
@@ -2871,6 +3291,12 @@
       "lpg": null,
       "country_code": "SY",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.88",
+          "diesel": "0.72",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.88",
@@ -2915,6 +3341,12 @@
       "country_code": "TW",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.91",
+          "diesel": "0.83",
+          "lpg": "0.44"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.92",
           "diesel": "0.84",
@@ -2950,6 +3382,12 @@
       "lpg": null,
       "country_code": "TH",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.4",
+          "diesel": "1.08",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.42",
@@ -2987,6 +3425,12 @@
       "country_code": "TM",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.37",
+          "diesel": "0.24",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.37",
           "diesel": "0.24",
@@ -3022,6 +3466,12 @@
       "lpg": null,
       "country_code": "AE",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.76",
+          "diesel": "1.09",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.76",
@@ -3059,6 +3509,12 @@
       "country_code": "UZ",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.95",
+          "diesel": "0.88",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.94",
           "diesel": "0.87",
@@ -3094,6 +3550,12 @@
       "lpg": null,
       "country_code": "VN",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.77",
+          "diesel": "0.87",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.77",
@@ -3138,6 +3600,12 @@
       "country_code": "AL",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.08",
+          "diesel": "2.24",
+          "lpg": "0.67"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "2.08",
           "diesel": "2.24",
@@ -3180,6 +3648,12 @@
       "country_code": "AD",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.58",
+          "diesel": "1.74",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.58",
           "diesel": "1.74",
@@ -3221,6 +3695,12 @@
       "lpg": null,
       "country_code": "AT",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.71",
+          "diesel": "1.91",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.69",
@@ -3271,6 +3751,12 @@
       "country_code": "BY",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.81",
+          "diesel": "0.81",
+          "lpg": "0.4"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "0.8",
           "diesel": "0.8",
@@ -3319,6 +3805,12 @@
       },
       "country_code": "BE",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.82",
+          "diesel": "2.09",
+          "lpg": "0.93"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.83",
@@ -3369,6 +3861,12 @@
       "country_code": "BA",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.38",
+          "diesel": "1.71",
+          "lpg": "0.72"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.38",
           "diesel": "1.71",
@@ -3417,6 +3915,12 @@
       },
       "country_code": "BG",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.48",
+          "diesel": "1.77",
+          "lpg": "0.81"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.47",
@@ -3467,6 +3971,12 @@
       "country_code": "HR",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.69",
+          "diesel": "1.89",
+          "lpg": "1.02"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.71",
           "diesel": "1.96",
@@ -3508,6 +4018,12 @@
       "lpg": null,
       "country_code": "CY",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.53",
+          "diesel": "1.89",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.53",
@@ -3558,6 +4074,12 @@
       "country_code": "CZ",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.68",
+          "diesel": "1.71",
+          "lpg": "0.97"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.67",
           "diesel": "1.76",
@@ -3599,6 +4121,12 @@
       "lpg": null,
       "country_code": "DK",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.27",
+          "diesel": "2.23",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "2.22",
@@ -3649,6 +4177,12 @@
       "country_code": "EE",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.71",
+          "diesel": "1.82",
+          "lpg": "0.98"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.72",
           "diesel": "1.88",
@@ -3690,6 +4224,12 @@
       "lpg": null,
       "country_code": "FI",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.09",
+          "diesel": "2.34",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.96",
@@ -3740,6 +4280,12 @@
       "country_code": "FR",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.02",
+          "diesel": "2.16",
+          "lpg": "1.06"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "2.02",
           "diesel": "2.24",
@@ -3781,6 +4327,12 @@
       "lpg": null,
       "country_code": "GE",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.15",
+          "diesel": "1.29",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.13",
@@ -3831,6 +4383,12 @@
       "country_code": "DE",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.14",
+          "diesel": "2.18",
+          "lpg": "1.15"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "2.11",
           "diesel": "2.13",
@@ -3872,6 +4430,12 @@
       "lpg": null,
       "country_code": "GR",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.04",
+          "diesel": "1.88",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "2.03",
@@ -3922,6 +4486,12 @@
       "country_code": "HU",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.65",
+          "diesel": "1.71",
+          "lpg": "1.02"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.65",
           "diesel": "1.72",
@@ -3964,6 +4534,12 @@
       "country_code": "IS",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.68",
+          "diesel": "1.96",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.66",
           "diesel": "1.92",
@@ -4005,6 +4581,12 @@
       "lpg": null,
       "country_code": "IE",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.82",
+          "diesel": "2.05",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.91",
@@ -4055,6 +4637,12 @@
       "country_code": "IT",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.73",
+          "diesel": "2.06",
+          "lpg": "0.81"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.76",
           "diesel": "2.11",
@@ -4104,6 +4692,12 @@
       "country_code": "LV",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.78",
+          "diesel": "1.92",
+          "lpg": "1.07"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.79",
           "diesel": "2.01",
@@ -4145,6 +4739,12 @@
       "lpg": null,
       "country_code": "LI",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.14",
+          "diesel": "2.37",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "2.14",
@@ -4195,6 +4795,12 @@
       "country_code": "LT",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.73",
+          "diesel": "1.99",
+          "lpg": "0.91"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.71",
           "diesel": "2.04",
@@ -4244,6 +4850,12 @@
       "country_code": "LU",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.76",
+          "diesel": "1.87",
+          "lpg": "0.8"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.72",
           "diesel": "1.87",
@@ -4285,6 +4897,12 @@
       "lpg": null,
       "country_code": "MT",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.34",
+          "diesel": "1.21",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.34",
@@ -4335,6 +4953,12 @@
       "country_code": "MD",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.45",
+          "diesel": "1.49",
+          "lpg": "0.4"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.44",
           "diesel": "1.48",
@@ -4376,6 +5000,12 @@
       "lpg": null,
       "country_code": "MC",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.02",
+          "diesel": "2.21",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "2.02",
@@ -4426,6 +5056,12 @@
       "country_code": "ME",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.53",
+          "diesel": "1.69",
+          "lpg": "0.71"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.53",
           "diesel": "1.69",
@@ -4474,6 +5110,12 @@
       },
       "country_code": "NL",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.32",
+          "diesel": "2.31",
+          "lpg": "1.03"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "2.28",
@@ -4524,6 +5166,12 @@
       "country_code": "MK",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.32",
+          "diesel": "1.47",
+          "lpg": "0.88"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.29",
           "diesel": "1.51",
@@ -4572,6 +5220,12 @@
       },
       "country_code": "NO",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.95",
+          "diesel": "2.06",
+          "lpg": "1.25"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.95",
@@ -4622,6 +5276,12 @@
       "country_code": "PL",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.44",
+          "diesel": "1.62",
+          "lpg": "0.89"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.41",
           "diesel": "1.64",
@@ -4670,6 +5330,12 @@
       },
       "country_code": "PT",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.93",
+          "diesel": "1.96",
+          "lpg": "1.03"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.9",
@@ -4720,6 +5386,12 @@
       "country_code": "RO",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.71",
+          "diesel": "1.77",
+          "lpg": "0.8"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.62",
           "diesel": "1.81",
@@ -4768,6 +5440,12 @@
       },
       "country_code": "RU",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "0.69",
+          "diesel": "0.8",
+          "lpg": "0.35"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "0.69",
@@ -4818,6 +5496,12 @@
       "country_code": "SM",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.5",
+          "diesel": "1.84",
+          "lpg": "0.78"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.5",
           "diesel": "1.84",
@@ -4866,6 +5550,12 @@
       },
       "country_code": "RS",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.63",
+          "diesel": "1.85",
+          "lpg": "0.92"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.63",
@@ -4916,6 +5606,12 @@
       "country_code": "SK",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.69",
+          "diesel": "1.79",
+          "lpg": "0.9"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.69",
           "diesel": "1.77",
@@ -4964,6 +5660,12 @@
       },
       "country_code": "SI",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.62",
+          "diesel": "1.79",
+          "lpg": "1.05"
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.65",
@@ -5014,6 +5716,12 @@
       "country_code": "ES",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.5",
+          "diesel": "1.73",
+          "lpg": "1.02"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.52",
           "diesel": "1.81",
@@ -5055,6 +5763,12 @@
       "lpg": null,
       "country_code": "SE",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.76",
+          "diesel": "2.01",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.72",
@@ -5105,6 +5819,12 @@
       "country_code": "CH",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "2.05",
+          "diesel": "2.36",
+          "lpg": "1.19"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "2.06",
           "diesel": "2.36",
@@ -5146,6 +5866,12 @@
       "lpg": null,
       "country_code": "TR",
       "history": [
+        {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.08",
+          "diesel": "1.17",
+          "lpg": null
+        },
         {
           "data_date": "2026-04-20",
           "gasoline95": "1.08",
@@ -5196,6 +5922,12 @@
       "country_code": "UA",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.41",
+          "diesel": "1.71",
+          "lpg": "0.95"
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.41",
           "diesel": "1.72",
@@ -5238,6 +5970,12 @@
       "country_code": "GB",
       "history": [
         {
+          "data_date": "2026-04-27",
+          "gasoline95": "1.81",
+          "diesel": "2.19",
+          "lpg": null
+        },
+        {
           "data_date": "2026-04-20",
           "gasoline95": "1.81",
           "diesel": "2.2",
@@ -5273,6 +6011,12 @@
       "data_date": "2026-04-01",
       "history": [
         {
+          "data_date": "2026-04-01",
+          "gasoline95": "0.36",
+          "diesel": null,
+          "lpg": null
+        },
+        {
           "data_date": "2026-03-01",
           "gasoline95": "0.36",
           "diesel": null,
@@ -5295,6 +6039,12 @@
       "country_code": "NG",
       "data_date": "2026-04-01",
       "history": [
+        {
+          "data_date": "2026-04-01",
+          "gasoline95": "0.76",
+          "diesel": null,
+          "lpg": null
+        },
         {
           "data_date": "2026-03-01",
           "gasoline95": "0.77",
@@ -5319,6 +6069,12 @@
       "data_date": "2026-04-01",
       "history": [
         {
+          "data_date": "2026-04-01",
+          "gasoline95": "0.9",
+          "diesel": null,
+          "lpg": null
+        },
+        {
           "data_date": "2026-03-01",
           "gasoline95": "0.9",
           "diesel": null,
@@ -5341,6 +6097,12 @@
       "country_code": "ZA",
       "data_date": "2026-04-01",
       "history": [
+        {
+          "data_date": "2026-04-01",
+          "gasoline95": "1.19",
+          "diesel": null,
+          "lpg": null
+        },
         {
           "data_date": "2026-03-01",
           "gasoline95": "1.03",
@@ -5365,6 +6127,12 @@
       "data_date": "2026-04-01",
       "history": [
         {
+          "data_date": "2026-04-01",
+          "gasoline95": "1.21",
+          "diesel": null,
+          "lpg": null
+        },
+        {
           "data_date": "2026-03-01",
           "gasoline95": "1.12",
           "diesel": null,
@@ -5387,6 +6155,12 @@
       "country_code": "TZ",
       "data_date": "2026-04-01",
       "history": [
+        {
+          "data_date": "2026-04-01",
+          "gasoline95": "1.26",
+          "diesel": null,
+          "lpg": null
+        },
         {
           "data_date": "2026-03-01",
           "gasoline95": "0.94",
@@ -5411,6 +6185,12 @@
       "data_date": "2026-04-01",
       "history": [
         {
+          "data_date": "2026-04-01",
+          "gasoline95": "1.31",
+          "diesel": null,
+          "lpg": null
+        },
+        {
           "data_date": "2026-03-01",
           "gasoline95": "1.17",
           "diesel": null,
@@ -5434,6 +6214,12 @@
       "data_date": "2026-04-01",
       "history": [
         {
+          "data_date": "2026-04-01",
+          "gasoline95": "1.34",
+          "diesel": null,
+          "lpg": null
+        },
+        {
           "data_date": "2026-03-01",
           "gasoline95": "1.38",
           "diesel": null,
@@ -5454,7 +6240,15 @@
       "diesel": null,
       "lpg": null,
       "country_code": "AU",
-      "data_date": "2026-03-01"
+      "data_date": "2026-03-01",
+      "history": [
+        {
+          "data_date": "2026-03-01",
+          "gasoline95": "1.49",
+          "diesel": null,
+          "lpg": null
+        }
+      ]
     },
     "New Zealand": {
       "continent": "world",
@@ -5469,7 +6263,15 @@
       "diesel": null,
       "lpg": null,
       "country_code": "NZ",
-      "data_date": "2026-03-01"
+      "data_date": "2026-03-01",
+      "history": [
+        {
+          "data_date": "2026-03-01",
+          "gasoline95": "1.56",
+          "diesel": null,
+          "lpg": null
+        }
+      ]
     },
     "Czech Republic": {
       "continent": "world",
@@ -5486,6 +6288,12 @@
       "country_code": "CZ",
       "data_date": "2026-04-01",
       "history": [
+        {
+          "data_date": "2026-04-01",
+          "gasoline95": "1.71",
+          "diesel": null,
+          "lpg": null
+        },
         {
           "data_date": "2026-03-01",
           "gasoline95": "1.61",
@@ -5509,6 +6317,12 @@
       "country_code": "ZW",
       "data_date": "2026-04-01",
       "history": [
+        {
+          "data_date": "2026-04-01",
+          "gasoline95": "1.78",
+          "diesel": null,
+          "lpg": null
+        },
         {
           "data_date": "2026-03-01",
           "gasoline95": "1.85",
