@@ -352,15 +352,16 @@ def merge_data(sources_data, existing_data=None):
         data.pop("year", None)
         data.pop("week", None)
     
-    if existing_data:
-        existing = existing_data.get("data", {})
-        for country, new_data in merged.items():
-            new_date = new_data.get("data_date")
+    for country, new_data in merged.items():
+        new_date = new_data.get("data_date")
+        history = []
+
+        if existing_data:
+            existing = existing_data.get("data", {})
             old_entry = existing.get(country, {})
             old_date = old_entry.get("data_date")
-            
             history = old_entry.get("history", []) or []
-            
+
             if old_date and new_date and old_date != new_date:
                 history_dates = {h.get("data_date") for h in history}
                 if old_date not in history_dates:
@@ -373,9 +374,23 @@ def merge_data(sources_data, existing_data=None):
                         "diesel": diesel.get("eur") if diesel else None,
                         "lpg": lpg.get("eur") if lpg else None,
                     })
-            
-            if history:
-                new_data["history"] = history[:30]
+
+        # Add current price to history if not already there
+        if new_date:
+            history_dates = {h.get("data_date") for h in history}
+            if new_date not in history_dates:
+                g95 = new_data.get("gasoline95")
+                diesel = new_data.get("diesel")
+                lpg = new_data.get("lpg")
+                history.insert(0, {
+                    "data_date": new_date,
+                    "gasoline95": g95.get("eur") if g95 else None,
+                    "diesel": diesel.get("eur") if diesel else None,
+                    "lpg": lpg.get("eur") if lpg else None,
+                })
+
+        if history:
+            new_data["history"] = history[:30]
     
     return merged
 
