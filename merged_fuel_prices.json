@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T08:21:06.301629Z",
+  "updated_at": "2026-05-02T20:47:33.661704Z",
   "sources": [
     "america",
     "asia",
@@ -27,7 +27,14 @@
           "value": "2387.45"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.51",
+        "local": {
+          "symbol": "$",
+          "code": "ARS",
+          "value": "833.97"
+        }
+      },
       "country_code": "AR",
       "history": [
         {
@@ -279,7 +286,14 @@
           "value": "7.18"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.77",
+        "local": {
+          "symbol": "R$",
+          "code": "BRL",
+          "value": "4.49"
+        }
+      },
       "country_code": "BR",
       "history": [
         {
@@ -405,7 +419,14 @@
           "value": "1370.51"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.6",
+        "local": {
+          "symbol": "$",
+          "code": "CLP",
+          "value": "632.54"
+        }
+      },
       "country_code": "CL",
       "history": [
         {
@@ -951,7 +972,14 @@
           "value": "36.75"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.41",
+        "local": {
+          "symbol": "L",
+          "code": "HNL",
+          "value": "12.77"
+        }
+      },
       "country_code": "HN",
       "history": [
         {
@@ -1161,7 +1189,14 @@
           "value": "7271.58"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.58",
+        "local": {
+          "symbol": "₲",
+          "code": "PYG",
+          "value": "4134.82"
+        }
+      },
       "country_code": "PY",
       "history": [
         {
@@ -1203,7 +1238,14 @@
           "value": "6.51"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.54",
+        "local": {
+          "symbol": "S/.",
+          "code": "PEN",
+          "value": "2.22"
+        }
+      },
       "country_code": "PE",
       "history": [
         {
@@ -1539,7 +1581,14 @@
           "value": "63.31"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.77",
+        "local": {
+          "symbol": "؋",
+          "code": "AFN",
+          "value": "58.04"
+        }
+      },
       "country_code": "AF",
       "history": [
         {
@@ -1564,7 +1613,7 @@
         "local": {
           "symbol": "֏",
           "code": "AMD",
-          "value": "551.15"
+          "value": "551.32"
         }
       },
       "diesel": {
@@ -1572,10 +1621,17 @@
         "local": {
           "symbol": "֏",
           "code": "AMD",
-          "value": "590.21"
+          "value": "590.39"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.58",
+        "local": {
+          "symbol": "֏",
+          "code": "AMD",
+          "value": "251.78"
+        }
+      },
       "country_code": "AM",
       "history": [
         {
@@ -1611,7 +1667,14 @@
           "value": "1.1"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.35",
+        "local": {
+          "symbol": "₼",
+          "code": "AZN",
+          "value": "0.7"
+        }
+      },
       "country_code": "AZ",
       "history": [
         {
@@ -1708,7 +1771,7 @@
         "local": {
           "symbol": "Nu.",
           "code": "INR",
-          "value": "103.38"
+          "value": "103.39"
         }
       },
       "diesel": {
@@ -1716,7 +1779,7 @@
         "local": {
           "symbol": "Nu.",
           "code": "INR",
-          "value": "98.93"
+          "value": "98.94"
         }
       },
       "lpg": null,
@@ -1824,7 +1887,7 @@
         "local": {
           "symbol": "HK$",
           "code": "HKD",
-          "value": "36.78"
+          "value": "36.79"
         }
       },
       "lpg": null,
@@ -1860,10 +1923,17 @@
         "local": {
           "symbol": "₹",
           "code": "INR",
-          "value": "91.15"
+          "value": "91.16"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.6",
+        "local": {
+          "symbol": "₹",
+          "code": "INR",
+          "value": "66.7"
+        }
+      },
       "country_code": "IN",
       "history": [
         {
@@ -1924,7 +1994,7 @@
         "local": {
           "symbol": "﷼",
           "code": "IRR",
-          "value": "30773.24"
+          "value": "30786.2"
         }
       },
       "diesel": {
@@ -1932,7 +2002,7 @@
         "local": {
           "symbol": "﷼",
           "code": "IRR",
-          "value": "15386.62"
+          "value": "15393.1"
         }
       },
       "lpg": null,
@@ -2000,7 +2070,14 @@
           "value": "7.89"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.39",
+        "local": {
+          "symbol": "₪",
+          "code": "ILS",
+          "value": "4.81"
+        }
+      },
       "country_code": "IL",
       "history": [
         {
@@ -2025,7 +2102,7 @@
         "local": {
           "symbol": "¥",
           "code": "JPY",
-          "value": "168.32"
+          "value": "168.3"
         }
       },
       "diesel": {
@@ -2033,7 +2110,7 @@
         "local": {
           "symbol": "¥",
           "code": "JPY",
-          "value": "157.22"
+          "value": "157.21"
         }
       },
       "lpg": null,
@@ -2097,7 +2174,7 @@
         "local": {
           "symbol": "₸",
           "code": "KZT",
-          "value": "298.17"
+          "value": "298.25"
         }
       },
       "diesel": {
@@ -2105,7 +2182,7 @@
         "local": {
           "symbol": "₸",
           "code": "KZT",
-          "value": "336.12"
+          "value": "336.21"
         }
       },
       "lpg": null,
@@ -2169,7 +2246,7 @@
         "local": {
           "symbol": "сом",
           "code": "KGS",
-          "value": "85.13"
+          "value": "85.15"
         }
       },
       "diesel": {
@@ -2177,7 +2254,7 @@
         "local": {
           "symbol": "сом",
           "code": "KGS",
-          "value": "89.24"
+          "value": "89.25"
         }
       },
       "lpg": null,
@@ -2252,7 +2329,14 @@
           "value": "110084.34"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.71",
+        "local": {
+          "symbol": "LL",
+          "code": "LBP",
+          "value": "75883.38"
+        }
+      },
       "country_code": "LB",
       "history": [
         {
@@ -2360,7 +2444,14 @@
           "value": "5916.25"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.63",
+        "local": {
+          "symbol": "₮",
+          "code": "MNT",
+          "value": "2643.43"
+        }
+      },
       "country_code": "MN",
       "history": [
         {
@@ -2540,7 +2631,14 @@
           "value": "100.7"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.71",
+        "local": {
+          "symbol": "₱",
+          "code": "PHP",
+          "value": "51.07"
+        }
+      },
       "country_code": "PH",
       "history": [
         {
@@ -2601,7 +2699,7 @@
         "local": {
           "symbol": "SAR",
           "code": "SAR",
-          "value": "2.32"
+          "value": "2.33"
         }
       },
       "diesel": {
@@ -2612,7 +2710,14 @@
           "value": "1.8"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.25",
+        "local": {
+          "symbol": "SAR",
+          "code": "SAR",
+          "value": "1.1"
+        }
+      },
       "country_code": "SA",
       "history": [
         {
@@ -2673,7 +2778,7 @@
         "local": {
           "symbol": "₩",
           "code": "KRW",
-          "value": "2007.02"
+          "value": "2007.18"
         }
       },
       "diesel": {
@@ -2681,10 +2786,17 @@
         "local": {
           "symbol": "₩",
           "code": "KRW",
-          "value": "2007.02"
+          "value": "2007.18"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.6",
+        "local": {
+          "symbol": "₩",
+          "code": "KRW",
+          "value": "1038.2"
+        }
+      },
       "country_code": "KR",
       "history": [
         {
@@ -2792,7 +2904,14 @@
           "value": "30.73"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.44",
+        "local": {
+          "symbol": "NT$",
+          "code": "TWD",
+          "value": "16.29"
+        }
+      },
       "country_code": "TW",
       "history": [
         {
@@ -2861,7 +2980,7 @@
         "local": {
           "symbol": "T",
           "code": "TMT",
-          "value": "0.98"
+          "value": "0.99"
         }
       },
       "lpg": null,
@@ -2889,7 +3008,7 @@
         "local": {
           "symbol": "AED",
           "code": "AED",
-          "value": "3.26"
+          "value": "3.27"
         }
       },
       "diesel": {
@@ -2925,7 +3044,7 @@
         "local": {
           "symbol": "лв",
           "code": "UZS",
-          "value": "13319.95"
+          "value": "13324.7"
         }
       },
       "diesel": {
@@ -2933,7 +3052,7 @@
         "local": {
           "symbol": "лв",
           "code": "UZS",
-          "value": "12338.48"
+          "value": "12342.88"
         }
       },
       "lpg": null,
@@ -3008,7 +3127,14 @@
           "value": "214.21"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.67",
+        "local": {
+          "symbol": "Lek",
+          "code": "ALL",
+          "value": "64.07"
+        }
+      },
       "country_code": "AL",
       "history": [
         {
@@ -3134,7 +3260,14 @@
           "value": "2.68"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.4",
+        "local": {
+          "symbol": "Br",
+          "code": "BYN",
+          "value": "1.32"
+        }
+      },
       "country_code": "BY",
       "history": [
         {
@@ -3176,7 +3309,14 @@
           "value": "2.09"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.93",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "0.93"
+        }
+      },
       "country_code": "BE",
       "history": [
         {
@@ -3218,7 +3358,14 @@
           "value": "3.35"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.72",
+        "local": {
+          "symbol": "KM",
+          "code": "BAM",
+          "value": "1.41"
+        }
+      },
       "country_code": "BA",
       "history": [
         {
@@ -3260,7 +3407,14 @@
           "value": "1.77"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.81",
+        "local": {
+          "symbol": "лв.",
+          "code": "BGN",
+          "value": "0.81"
+        }
+      },
       "country_code": "BG",
       "history": [
         {
@@ -3302,7 +3456,14 @@
           "value": "1.89"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.02",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "1.02"
+        }
+      },
       "country_code": "HR",
       "history": [
         {
@@ -3386,7 +3547,14 @@
           "value": "41.69"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.97",
+        "local": {
+          "symbol": "Kč",
+          "code": "CZK",
+          "value": "23.65"
+        }
+      },
       "country_code": "CZ",
       "history": [
         {
@@ -3470,7 +3638,14 @@
           "value": "1.82"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.98",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "0.98"
+        }
+      },
       "country_code": "EE",
       "history": [
         {
@@ -3554,7 +3729,14 @@
           "value": "2.16"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.06",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "1.06"
+        }
+      },
       "country_code": "FR",
       "history": [
         {
@@ -3638,7 +3820,14 @@
           "value": "2.18"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.15",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "1.15"
+        }
+      },
       "country_code": "DE",
       "history": [
         {
@@ -3722,7 +3911,14 @@
           "value": "624.29"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.02",
+        "local": {
+          "symbol": "Ft",
+          "code": "HUF",
+          "value": "372.38"
+        }
+      },
       "country_code": "HU",
       "history": [
         {
@@ -3848,7 +4044,14 @@
           "value": "2.06"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.81",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "0.81"
+        }
+      },
       "country_code": "IT",
       "history": [
         {
@@ -3890,7 +4093,14 @@
           "value": "1.92"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.07",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "1.07"
+        }
+      },
       "country_code": "LV",
       "history": [
         {
@@ -3974,7 +4184,14 @@
           "value": "1.99"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.91",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "0.91"
+        }
+      },
       "country_code": "LT",
       "history": [
         {
@@ -4016,7 +4233,14 @@
           "value": "1.87"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.8",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "0.8"
+        }
+      },
       "country_code": "LU",
       "history": [
         {
@@ -4100,7 +4324,14 @@
           "value": "30.08"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.4",
+        "local": {
+          "symbol": "lei",
+          "code": "MDL",
+          "value": "8.08"
+        }
+      },
       "country_code": "MD",
       "history": [
         {
@@ -4184,7 +4415,14 @@
           "value": "1.69"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.71",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "0.71"
+        }
+      },
       "country_code": "ME",
       "history": [
         {
@@ -4226,7 +4464,14 @@
           "value": "2.31"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.03",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "1.03"
+        }
+      },
       "country_code": "NL",
       "history": [
         {
@@ -4268,7 +4513,14 @@
           "value": "90.67"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.88",
+        "local": {
+          "symbol": "den",
+          "code": "MKD",
+          "value": "54.28"
+        }
+      },
       "country_code": "MK",
       "history": [
         {
@@ -4310,7 +4562,14 @@
           "value": "22.47"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.25",
+        "local": {
+          "symbol": "kr",
+          "code": "NOK",
+          "value": "13.63"
+        }
+      },
       "country_code": "NO",
       "history": [
         {
@@ -4352,7 +4611,14 @@
           "value": "6.9"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.89",
+        "local": {
+          "symbol": "zł",
+          "code": "PLN",
+          "value": "3.79"
+        }
+      },
       "country_code": "PL",
       "history": [
         {
@@ -4394,7 +4660,14 @@
           "value": "1.96"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.03",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "1.03"
+        }
+      },
       "country_code": "PT",
       "history": [
         {
@@ -4436,7 +4709,14 @@
           "value": "9.14"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.8",
+        "local": {
+          "symbol": "lei",
+          "code": "RON",
+          "value": "4.13"
+        }
+      },
       "country_code": "RO",
       "history": [
         {
@@ -4467,7 +4747,7 @@
         "local": {
           "symbol": "₽",
           "code": "RUB",
-          "value": "60.6"
+          "value": "60.62"
         }
       },
       "diesel": {
@@ -4475,10 +4755,17 @@
         "local": {
           "symbol": "₽",
           "code": "RUB",
-          "value": "70.26"
+          "value": "70.29"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.35",
+        "local": {
+          "symbol": "₽",
+          "code": "RUB",
+          "value": "30.75"
+        }
+      },
       "country_code": "RU",
       "history": [
         {
@@ -4520,7 +4807,14 @@
           "value": "1.84"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.78",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "0.78"
+        }
+      },
       "country_code": "SM",
       "history": [
         {
@@ -4562,7 +4856,14 @@
           "value": "217.5"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.92",
+        "local": {
+          "symbol": "din",
+          "code": "RSD",
+          "value": "108.16"
+        }
+      },
       "country_code": "RS",
       "history": [
         {
@@ -4604,7 +4905,14 @@
           "value": "1.79"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.9",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "0.9"
+        }
+      },
       "country_code": "SK",
       "history": [
         {
@@ -4646,7 +4954,14 @@
           "value": "1.79"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.05",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "1.05"
+        }
+      },
       "country_code": "SI",
       "history": [
         {
@@ -4688,7 +5003,14 @@
           "value": "1.73"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.02",
+        "local": {
+          "symbol": "€",
+          "code": "EUR",
+          "value": "1.02"
+        }
+      },
       "country_code": "ES",
       "history": [
         {
@@ -4772,7 +5094,14 @@
           "value": "2.17"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "1.19",
+        "local": {
+          "symbol": "CHF",
+          "code": "CHF",
+          "value": "1.1"
+        }
+      },
       "country_code": "CH",
       "history": [
         {
@@ -4803,7 +5132,7 @@
         "local": {
           "symbol": "₺",
           "code": "TRY",
-          "value": "57.12"
+          "value": "57.13"
         }
       },
       "diesel": {
@@ -4811,7 +5140,7 @@
         "local": {
           "symbol": "₺",
           "code": "TRY",
-          "value": "61.88"
+          "value": "61.89"
         }
       },
       "lpg": null,
@@ -4845,7 +5174,7 @@
         "local": {
           "symbol": "₴",
           "code": "UAH",
-          "value": "72.64"
+          "value": "72.65"
         }
       },
       "diesel": {
@@ -4853,10 +5182,17 @@
         "local": {
           "symbol": "₴",
           "code": "UAH",
-          "value": "88.1"
+          "value": "88.11"
         }
       },
-      "lpg": null,
+      "lpg": {
+        "eur": "0.95",
+        "local": {
+          "symbol": "₴",
+          "code": "UAH",
+          "value": "48.95"
+        }
+      },
       "country_code": "UA",
       "history": [
         {
@@ -4895,7 +5231,7 @@
         "local": {
           "symbol": "£",
           "code": "GBP",
-          "value": "1.9"
+          "value": "1.89"
         }
       },
       "lpg": null,
