@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T10:05:13.844429Z",
+  "updated_at": "2026-07-04T09:23:35.197326Z",
   "sources": [
     "america",
     "asia",
@@ -16,7 +16,7 @@
         "local": {
           "symbol": "$",
           "code": "ARS",
-          "value": "2038.73"
+          "value": "2040.52"
         }
       },
       "diesel": {
@@ -24,7 +24,7 @@
         "local": {
           "symbol": "$",
           "code": "ARS",
-          "value": "2276.58"
+          "value": "2278.58"
         }
       },
       "lpg": null,
@@ -528,7 +528,7 @@
         "local": {
           "symbol": "R$",
           "code": "BRL",
-          "value": "6.77"
+          "value": "6.78"
         }
       },
       "lpg": {
@@ -786,7 +786,7 @@
         "local": {
           "symbol": "$",
           "code": "CLP",
-          "value": "1500.05"
+          "value": "1500.61"
         }
       },
       "diesel": {
@@ -794,7 +794,7 @@
         "local": {
           "symbol": "$",
           "code": "CLP",
-          "value": "1299.34"
+          "value": "1299.83"
         }
       },
       "lpg": {
@@ -802,7 +802,7 @@
         "local": {
           "symbol": "$",
           "code": "CLP",
-          "value": "654.95"
+          "value": "655.2"
         }
       },
       "country_code": "CL",
@@ -877,7 +877,7 @@
         "local": {
           "symbol": "$",
           "code": "COP",
-          "value": "4137.81"
+          "value": "4114.71"
         }
       },
       "diesel": {
@@ -885,7 +885,7 @@
         "local": {
           "symbol": "$",
           "code": "COP",
-          "value": "2939.0"
+          "value": "2922.6"
         }
       },
       "lpg": null,
@@ -961,7 +961,7 @@
         "local": {
           "symbol": "₡",
           "code": "CRC",
-          "value": "752.54"
+          "value": "753.1"
         }
       },
       "diesel": {
@@ -969,7 +969,7 @@
         "local": {
           "symbol": "₡",
           "code": "CRC",
-          "value": "669.5"
+          "value": "670.0"
         }
       },
       "lpg": null,
@@ -1045,7 +1045,7 @@
         "local": {
           "symbol": "₱",
           "code": "CUP",
-          "value": "46.89"
+          "value": "46.97"
         }
       },
       "diesel": {
@@ -1053,7 +1053,7 @@
         "local": {
           "symbol": "₱",
           "code": "CUP",
-          "value": "46.89"
+          "value": "46.97"
         }
       },
       "lpg": null,
@@ -1297,7 +1297,7 @@
         "local": {
           "symbol": "RD$",
           "code": "DOP",
-          "value": "73.37"
+          "value": "73.46"
         }
       },
       "diesel": {
@@ -1305,7 +1305,7 @@
         "local": {
           "symbol": "RD$",
           "code": "DOP",
-          "value": "64.46"
+          "value": "64.54"
         }
       },
       "lpg": null,
@@ -1717,7 +1717,7 @@
         "local": {
           "symbol": "G$",
           "code": "GYD",
-          "value": "239.07"
+          "value": "239.15"
         }
       },
       "diesel": {
@@ -1725,7 +1725,7 @@
         "local": {
           "symbol": "G$",
           "code": "GYD",
-          "value": "253.55"
+          "value": "253.65"
         }
       },
       "lpg": null,
@@ -1801,7 +1801,7 @@
         "local": {
           "symbol": "G",
           "code": "HTG",
-          "value": "185.18"
+          "value": "185.14"
         }
       },
       "diesel": {
@@ -1809,7 +1809,7 @@
         "local": {
           "symbol": "G",
           "code": "HTG",
-          "value": "209.08"
+          "value": "209.03"
         }
       },
       "lpg": null,
@@ -1885,7 +1885,7 @@
         "local": {
           "symbol": "L",
           "code": "HNL",
-          "value": "34.49"
+          "value": "34.48"
         }
       },
       "diesel": {
@@ -1976,7 +1976,7 @@
         "local": {
           "symbol": "J$",
           "code": "JMD",
-          "value": "201.67"
+          "value": "201.93"
         }
       },
       "diesel": {
@@ -1984,7 +1984,7 @@
         "local": {
           "symbol": "J$",
           "code": "JMD",
-          "value": "203.46"
+          "value": "203.72"
         }
       },
       "lpg": null,
@@ -2060,7 +2060,7 @@
         "local": {
           "symbol": "MX$",
           "code": "MXN",
-          "value": "23.84"
+          "value": "23.8"
         }
       },
       "diesel": {
@@ -2068,7 +2068,7 @@
         "local": {
           "symbol": "MX$",
           "code": "MXN",
-          "value": "27.24"
+          "value": "27.2"
         }
       },
       "lpg": null,
@@ -2144,7 +2144,7 @@
         "local": {
           "symbol": "C$",
           "code": "NIO",
-          "value": "49.08"
+          "value": "49.12"
         }
       },
       "diesel": {
@@ -2152,7 +2152,7 @@
         "local": {
           "symbol": "C$",
           "code": "NIO",
-          "value": "43.21"
+          "value": "43.24"
         }
       },
       "lpg": null,
@@ -2312,7 +2312,7 @@
         "local": {
           "symbol": "₲",
           "code": "PYG",
-          "value": "7230.08"
+          "value": "7228.0"
         }
       },
       "diesel": {
@@ -2320,7 +2320,7 @@
         "local": {
           "symbol": "₲",
           "code": "PYG",
-          "value": "8203.36"
+          "value": "8201.0"
         }
       },
       "lpg": {
@@ -2328,7 +2328,7 @@
         "local": {
           "symbol": "₲",
           "code": "PYG",
-          "value": "4240.72"
+          "value": "4239.5"
         }
       },
       "country_code": "PY",
@@ -2403,7 +2403,7 @@
         "local": {
           "symbol": "S/.",
           "code": "PEN",
-          "value": "5.34"
+          "value": "5.33"
         }
       },
       "diesel": {
@@ -2662,7 +2662,7 @@
         "local": {
           "symbol": "Sr$",
           "code": "SRD",
-          "value": "48.32"
+          "value": "48.42"
         }
       },
       "diesel": {
@@ -2670,7 +2670,7 @@
         "local": {
           "symbol": "Sr$",
           "code": "SRD",
-          "value": "53.02"
+          "value": "53.14"
         }
       },
       "lpg": null,
@@ -2746,7 +2746,7 @@
         "local": {
           "symbol": "TT$",
           "code": "TTD",
-          "value": "7.71"
+          "value": "7.7"
         }
       },
       "diesel": {
@@ -2838,7 +2838,7 @@
         "local": {
           "symbol": "$",
           "code": "USD",
-          "value": "1.23"
+          "value": "1.24"
         }
       },
       "lpg": null,
@@ -2914,7 +2914,7 @@
         "local": {
           "symbol": "U$",
           "code": "UYU",
-          "value": "93.7"
+          "value": "93.74"
         }
       },
       "diesel": {
@@ -2922,7 +2922,7 @@
         "local": {
           "symbol": "U$",
           "code": "UYU",
-          "value": "62.01"
+          "value": "62.04"
         }
       },
       "lpg": null,
@@ -2998,7 +2998,7 @@
         "local": {
           "symbol": "Bs",
           "code": "VES",
-          "value": "21.62"
+          "value": "21.78"
         }
       },
       "diesel": {
@@ -3082,7 +3082,7 @@
         "local": {
           "symbol": "؋",
           "code": "AFN",
-          "value": "67.8"
+          "value": "68.0"
         }
       },
       "diesel": {
@@ -3090,7 +3090,7 @@
         "local": {
           "symbol": "؋",
           "code": "AFN",
-          "value": "67.06"
+          "value": "67.25"
         }
       },
       "lpg": {
@@ -3098,7 +3098,7 @@
         "local": {
           "symbol": "؋",
           "code": "AFN",
-          "value": "57.37"
+          "value": "57.54"
         }
       },
       "country_code": "AF",
@@ -3185,7 +3185,7 @@
         "local": {
           "symbol": "֏",
           "code": "AMD",
-          "value": "550.54"
+          "value": "551.17"
         }
       },
       "diesel": {
@@ -3193,7 +3193,7 @@
         "local": {
           "symbol": "֏",
           "code": "AMD",
-          "value": "592.57"
+          "value": "593.24"
         }
       },
       "lpg": {
@@ -3201,7 +3201,7 @@
         "local": {
           "symbol": "֏",
           "code": "AMD",
-          "value": "210.13"
+          "value": "210.37"
         }
       },
       "country_code": "AM",
@@ -3487,7 +3487,7 @@
         "local": {
           "symbol": "৳",
           "code": "BDT",
-          "value": "144.83"
+          "value": "144.97"
         }
       },
       "diesel": {
@@ -3495,7 +3495,7 @@
         "local": {
           "symbol": "৳",
           "code": "BDT",
-          "value": "115.3"
+          "value": "115.41"
         }
       },
       "lpg": null,
@@ -3583,7 +3583,7 @@
         "local": {
           "symbol": "Nu.",
           "code": "INR",
-          "value": "101.26"
+          "value": "101.34"
         }
       },
       "diesel": {
@@ -3591,7 +3591,7 @@
         "local": {
           "symbol": "Nu.",
           "code": "INR",
-          "value": "105.61"
+          "value": "105.7"
         }
       },
       "lpg": null,
@@ -3679,7 +3679,7 @@
         "local": {
           "symbol": "៛",
           "code": "KHR",
-          "value": "5283.1"
+          "value": "5285.84"
         }
       },
       "diesel": {
@@ -3687,7 +3687,7 @@
         "local": {
           "symbol": "៛",
           "code": "KHR",
-          "value": "3996.78"
+          "value": "3998.85"
         }
       },
       "lpg": null,
@@ -3775,7 +3775,7 @@
         "local": {
           "symbol": "元",
           "code": "CNY",
-          "value": "8.53"
+          "value": "8.54"
         }
       },
       "diesel": {
@@ -3783,7 +3783,7 @@
         "local": {
           "symbol": "元",
           "code": "CNY",
-          "value": "7.6"
+          "value": "7.61"
         }
       },
       "lpg": null,
@@ -3871,7 +3871,7 @@
         "local": {
           "symbol": "HK$",
           "code": "HKD",
-          "value": "31.95"
+          "value": "31.99"
         }
       },
       "diesel": {
@@ -3879,7 +3879,7 @@
         "local": {
           "symbol": "HK$",
           "code": "HKD",
-          "value": "33.83"
+          "value": "33.87"
         }
       },
       "lpg": null,
@@ -3967,7 +3967,7 @@
         "local": {
           "symbol": "₹",
           "code": "INR",
-          "value": "109.97"
+          "value": "110.06"
         }
       },
       "diesel": {
@@ -3975,7 +3975,7 @@
         "local": {
           "symbol": "₹",
           "code": "INR",
-          "value": "99.08"
+          "value": "99.16"
         }
       },
       "lpg": {
@@ -3983,7 +3983,7 @@
         "local": {
           "symbol": "₹",
           "code": "INR",
-          "value": "67.51"
+          "value": "67.56"
         }
       },
       "country_code": "IN",
@@ -4070,7 +4070,7 @@
         "local": {
           "symbol": "Rp",
           "code": "IDR",
-          "value": "17045.71"
+          "value": "17053.18"
         }
       },
       "diesel": {
@@ -4078,7 +4078,7 @@
         "local": {
           "symbol": "Rp",
           "code": "IDR",
-          "value": "21358.48"
+          "value": "21367.84"
         }
       },
       "lpg": null,
@@ -4166,7 +4166,7 @@
         "local": {
           "symbol": "﷼",
           "code": "IRR",
-          "value": "46830.12"
+          "value": "46876.29"
         }
       },
       "diesel": {
@@ -4174,7 +4174,7 @@
         "local": {
           "symbol": "﷼",
           "code": "IRR",
-          "value": "15610.04"
+          "value": "15625.43"
         }
       },
       "lpg": null,
@@ -4262,7 +4262,7 @@
         "local": {
           "symbol": "د.ع",
           "code": "IQD",
-          "value": "852.34"
+          "value": "852.97"
         }
       },
       "diesel": null,
@@ -4351,7 +4351,7 @@
         "local": {
           "symbol": "₪",
           "code": "ILS",
-          "value": "8.12"
+          "value": "8.13"
         }
       },
       "diesel": {
@@ -4359,7 +4359,7 @@
         "local": {
           "symbol": "₪",
           "code": "ILS",
-          "value": "7.71"
+          "value": "7.72"
         }
       },
       "lpg": {
@@ -4460,7 +4460,7 @@
         "local": {
           "symbol": "¥",
           "code": "JPY",
-          "value": "168.07"
+          "value": "168.12"
         }
       },
       "diesel": {
@@ -4468,7 +4468,7 @@
         "local": {
           "symbol": "¥",
           "code": "JPY",
-          "value": "158.83"
+          "value": "158.88"
         }
       },
       "lpg": null,
@@ -4652,7 +4652,7 @@
         "local": {
           "symbol": "₸",
           "code": "KZT",
-          "value": "320.86"
+          "value": "320.43"
         }
       },
       "diesel": {
@@ -4660,7 +4660,7 @@
         "local": {
           "symbol": "₸",
           "code": "KZT",
-          "value": "337.17"
+          "value": "336.73"
         }
       },
       "lpg": {
@@ -4668,7 +4668,7 @@
         "local": {
           "symbol": "₸",
           "code": "KZT",
-          "value": "114.2"
+          "value": "114.05"
         }
       },
       "country_code": "KZ",
@@ -4851,7 +4851,7 @@
         "local": {
           "symbol": "сом",
           "code": "KGS",
-          "value": "88.9"
+          "value": "89.0"
         }
       },
       "diesel": {
@@ -4859,7 +4859,7 @@
         "local": {
           "symbol": "сом",
           "code": "KGS",
-          "value": "93.9"
+          "value": "94.0"
         }
       },
       "lpg": null,
@@ -4947,7 +4947,7 @@
         "local": {
           "symbol": "₭",
           "code": "LAK",
-          "value": "39246.03"
+          "value": "39259.8"
         }
       },
       "diesel": {
@@ -4955,7 +4955,7 @@
         "local": {
           "symbol": "₭",
           "code": "LAK",
-          "value": "47967.37"
+          "value": "47984.2"
         }
       },
       "lpg": null,
@@ -5043,7 +5043,7 @@
         "local": {
           "symbol": "LL",
           "code": "LBP",
-          "value": "102717.0"
+          "value": "102798.0"
         }
       },
       "diesel": {
@@ -5051,7 +5051,7 @@
         "local": {
           "symbol": "LL",
           "code": "LBP",
-          "value": "84227.94"
+          "value": "84294.36"
         }
       },
       "lpg": {
@@ -5059,7 +5059,7 @@
         "local": {
           "symbol": "LL",
           "code": "LBP",
-          "value": "51358.5"
+          "value": "51399.0"
         }
       },
       "country_code": "LB",
@@ -5146,7 +5146,7 @@
         "local": {
           "symbol": "RM",
           "code": "MYR",
-          "value": "3.35"
+          "value": "3.36"
         }
       },
       "diesel": {
@@ -5242,7 +5242,7 @@
         "local": {
           "symbol": "Rf",
           "code": "MVR",
-          "value": "15.98"
+          "value": "15.99"
         }
       },
       "diesel": {
@@ -5250,7 +5250,7 @@
         "local": {
           "symbol": "Rf",
           "code": "MVR",
-          "value": "17.38"
+          "value": "17.4"
         }
       },
       "lpg": null,
@@ -5338,7 +5338,7 @@
         "local": {
           "symbol": "₮",
           "code": "MNT",
-          "value": "5520.92"
+          "value": "5527.72"
         }
       },
       "diesel": {
@@ -5346,7 +5346,7 @@
         "local": {
           "symbol": "₮",
           "code": "MNT",
-          "value": "6216.15"
+          "value": "6223.81"
         }
       },
       "lpg": {
@@ -5354,7 +5354,7 @@
         "local": {
           "symbol": "₮",
           "code": "MNT",
-          "value": "2658.22"
+          "value": "2661.5"
         }
       },
       "country_code": "MN",
@@ -5441,7 +5441,7 @@
         "local": {
           "symbol": "K",
           "code": "MMK",
-          "value": "2493.74"
+          "value": "2496.73"
         }
       },
       "diesel": {
@@ -5449,7 +5449,7 @@
         "local": {
           "symbol": "K",
           "code": "MMK",
-          "value": "2397.83"
+          "value": "2400.7"
         }
       },
       "lpg": null,
@@ -5537,7 +5537,7 @@
         "local": {
           "symbol": "Rs.",
           "code": "NPR",
-          "value": "196.61"
+          "value": "196.78"
         }
       },
       "diesel": {
@@ -5545,7 +5545,7 @@
         "local": {
           "symbol": "Rs.",
           "code": "NPR",
-          "value": "194.87"
+          "value": "195.04"
         }
       },
       "lpg": null,
@@ -5729,7 +5729,7 @@
         "local": {
           "symbol": "₨",
           "code": "PKR",
-          "value": "299.7"
+          "value": "299.93"
         }
       },
       "diesel": {
@@ -5737,7 +5737,7 @@
         "local": {
           "symbol": "₨",
           "code": "PKR",
-          "value": "312.45"
+          "value": "312.69"
         }
       },
       "lpg": null,
@@ -5825,7 +5825,7 @@
         "local": {
           "symbol": "₱",
           "code": "PHP",
-          "value": "73.17"
+          "value": "73.15"
         }
       },
       "diesel": {
@@ -5833,7 +5833,7 @@
         "local": {
           "symbol": "₱",
           "code": "PHP",
-          "value": "68.95"
+          "value": "68.93"
         }
       },
       "lpg": {
@@ -5841,7 +5841,7 @@
         "local": {
           "symbol": "₱",
           "code": "PHP",
-          "value": "50.66"
+          "value": "50.64"
         }
       },
       "country_code": "PH",
@@ -6024,7 +6024,7 @@
         "local": {
           "symbol": "SAR",
           "code": "SAR",
-          "value": "2.31"
+          "value": "2.32"
         }
       },
       "diesel": {
@@ -6223,7 +6223,7 @@
         "local": {
           "symbol": "₩",
           "code": "KRW",
-          "value": "1962.66"
+          "value": "1953.89"
         }
       },
       "diesel": {
@@ -6231,7 +6231,7 @@
         "local": {
           "symbol": "₩",
           "code": "KRW",
-          "value": "1944.98"
+          "value": "1936.29"
         }
       },
       "lpg": {
@@ -6239,7 +6239,7 @@
         "local": {
           "symbol": "₩",
           "code": "KRW",
-          "value": "1149.3"
+          "value": "1144.17"
         }
       },
       "country_code": "KR",
@@ -6326,7 +6326,7 @@
         "local": {
           "symbol": "₨",
           "code": "LKR",
-          "value": "496.83"
+          "value": "493.33"
         }
       },
       "diesel": {
@@ -6334,7 +6334,7 @@
         "local": {
           "symbol": "₨",
           "code": "LKR",
-          "value": "481.42"
+          "value": "478.04"
         }
       },
       "lpg": null,
@@ -6422,7 +6422,7 @@
         "local": {
           "symbol": "£S",
           "code": "SYP",
-          "value": "160.82"
+          "value": "163.55"
         }
       },
       "diesel": {
@@ -6430,7 +6430,7 @@
         "local": {
           "symbol": "£S",
           "code": "SYP",
-          "value": "123.91"
+          "value": "126.02"
         }
       },
       "lpg": null,
@@ -6518,7 +6518,7 @@
         "local": {
           "symbol": "NT$",
           "code": "TWD",
-          "value": "32.1"
+          "value": "32.13"
         }
       },
       "diesel": {
@@ -6526,7 +6526,7 @@
         "local": {
           "symbol": "NT$",
           "code": "TWD",
-          "value": "29.54"
+          "value": "29.57"
         }
       },
       "lpg": {
@@ -6534,7 +6534,7 @@
         "local": {
           "symbol": "NT$",
           "code": "TWD",
-          "value": "16.41"
+          "value": "16.43"
         }
       },
       "country_code": "TW",
@@ -6621,7 +6621,7 @@
         "local": {
           "symbol": "฿",
           "code": "THB",
-          "value": "49.83"
+          "value": "49.75"
         }
       },
       "diesel": {
@@ -6629,7 +6629,7 @@
         "local": {
           "symbol": "฿",
           "code": "THB",
-          "value": "37.28"
+          "value": "37.22"
         }
       },
       "lpg": null,
@@ -6821,7 +6821,7 @@
         "local": {
           "symbol": "AED",
           "code": "AED",
-          "value": "4.32"
+          "value": "4.33"
         }
       },
       "lpg": null,
@@ -6909,7 +6909,7 @@
         "local": {
           "symbol": "лв",
           "code": "UZS",
-          "value": "14852.34"
+          "value": "14877.41"
         }
       },
       "diesel": {
@@ -6917,7 +6917,7 @@
         "local": {
           "symbol": "лв",
           "code": "UZS",
-          "value": "13080.96"
+          "value": "13103.04"
         }
       },
       "lpg": null,
@@ -7005,7 +7005,7 @@
         "local": {
           "symbol": "₫",
           "code": "VND",
-          "value": "21848.17"
+          "value": "21873.72"
         }
       },
       "diesel": {
@@ -7013,7 +7013,7 @@
         "local": {
           "symbol": "₫",
           "code": "VND",
-          "value": "22147.46"
+          "value": "22173.36"
         }
       },
       "lpg": null,
@@ -7101,7 +7101,7 @@
         "local": {
           "symbol": "Lek",
           "code": "ALL",
-          "value": "165.62"
+          "value": "165.28"
         }
       },
       "diesel": {
@@ -7109,7 +7109,7 @@
         "local": {
           "symbol": "Lek",
           "code": "ALL",
-          "value": "175.97"
+          "value": "175.61"
         }
       },
       "lpg": {
@@ -7117,7 +7117,7 @@
         "local": {
           "symbol": "Lek",
           "code": "ALL",
-          "value": "64.93"
+          "value": "64.8"
         }
       },
       "country_code": "AL",
@@ -7414,7 +7414,7 @@
         "local": {
           "symbol": "Br",
           "code": "BYN",
-          "value": "2.68"
+          "value": "2.69"
         }
       },
       "diesel": {
@@ -7422,7 +7422,7 @@
         "local": {
           "symbol": "Br",
           "code": "BYN",
-          "value": "2.68"
+          "value": "2.69"
         }
       },
       "lpg": {
@@ -8061,7 +8061,7 @@
         "local": {
           "symbol": "Kč",
           "code": "CZK",
-          "value": "38.82"
+          "value": "38.76"
         }
       },
       "diesel": {
@@ -8069,7 +8069,7 @@
         "local": {
           "symbol": "Kč",
           "code": "CZK",
-          "value": "35.18"
+          "value": "35.12"
         }
       },
       "lpg": {
@@ -8077,7 +8077,7 @@
         "local": {
           "symbol": "Kč",
           "code": "CZK",
-          "value": "22.08"
+          "value": "22.04"
         }
       },
       "country_code": "CZ",
@@ -8905,7 +8905,7 @@
         "local": {
           "symbol": "Ft",
           "code": "HUF",
-          "value": "577.06"
+          "value": "573.71"
         }
       },
       "diesel": {
@@ -8913,7 +8913,7 @@
         "local": {
           "symbol": "Ft",
           "code": "HUF",
-          "value": "584.18"
+          "value": "580.79"
         }
       },
       "lpg": {
@@ -8921,7 +8921,7 @@
         "local": {
           "symbol": "Ft",
           "code": "HUF",
-          "value": "366.9"
+          "value": "364.76"
         }
       },
       "country_code": "HU",
@@ -9014,7 +9014,7 @@
         "local": {
           "symbol": "kr",
           "code": "ISK",
-          "value": "216.19"
+          "value": "216.03"
         }
       },
       "diesel": {
@@ -9022,7 +9022,7 @@
         "local": {
           "symbol": "kr",
           "code": "ISK",
-          "value": "243.58"
+          "value": "243.39"
         }
       },
       "lpg": null,
@@ -9858,7 +9858,7 @@
         "local": {
           "symbol": "lei",
           "code": "MDL",
-          "value": "27.42"
+          "value": "27.44"
         }
       },
       "diesel": {
@@ -9866,7 +9866,7 @@
         "local": {
           "symbol": "lei",
           "code": "MDL",
-          "value": "24.4"
+          "value": "24.41"
         }
       },
       "lpg": {
@@ -9874,7 +9874,7 @@
         "local": {
           "symbol": "lei",
           "code": "MDL",
-          "value": "7.86"
+          "value": "7.87"
         }
       },
       "country_code": "MD",
@@ -10287,7 +10287,7 @@
         "local": {
           "symbol": "den",
           "code": "MKD",
-          "value": "84.59"
+          "value": "84.45"
         }
       },
       "diesel": {
@@ -10295,7 +10295,7 @@
         "local": {
           "symbol": "den",
           "code": "MKD",
-          "value": "80.89"
+          "value": "80.75"
         }
       },
       "lpg": {
@@ -10303,7 +10303,7 @@
         "local": {
           "symbol": "den",
           "code": "MKD",
-          "value": "46.93"
+          "value": "46.85"
         }
       },
       "country_code": "MK",
@@ -10396,7 +10396,7 @@
         "local": {
           "symbol": "kr",
           "code": "NOK",
-          "value": "20.89"
+          "value": "20.85"
         }
       },
       "diesel": {
@@ -10404,7 +10404,7 @@
         "local": {
           "symbol": "kr",
           "code": "NOK",
-          "value": "18.29"
+          "value": "18.26"
         }
       },
       "lpg": {
@@ -10412,7 +10412,7 @@
         "local": {
           "symbol": "kr",
           "code": "NOK",
-          "value": "14.12"
+          "value": "14.09"
         }
       },
       "country_code": "NO",
@@ -10505,7 +10505,7 @@
         "local": {
           "symbol": "zł",
           "code": "PLN",
-          "value": "5.97"
+          "value": "5.96"
         }
       },
       "diesel": {
@@ -10513,7 +10513,7 @@
         "local": {
           "symbol": "zł",
           "code": "PLN",
-          "value": "6.06"
+          "value": "6.05"
         }
       },
       "lpg": {
@@ -10521,7 +10521,7 @@
         "local": {
           "symbol": "zł",
           "code": "PLN",
-          "value": "3.31"
+          "value": "3.3"
         }
       },
       "country_code": "PL",
@@ -10723,7 +10723,7 @@
         "local": {
           "symbol": "lei",
           "code": "RON",
-          "value": "8.65"
+          "value": "8.64"
         }
       },
       "diesel": {
@@ -10832,7 +10832,7 @@
         "local": {
           "symbol": "₽",
           "code": "RUB",
-          "value": "73.88"
+          "value": "73.62"
         }
       },
       "diesel": {
@@ -10840,7 +10840,7 @@
         "local": {
           "symbol": "₽",
           "code": "RUB",
-          "value": "82.78"
+          "value": "82.49"
         }
       },
       "lpg": {
@@ -10848,7 +10848,7 @@
         "local": {
           "symbol": "₽",
           "code": "RUB",
-          "value": "33.82"
+          "value": "33.71"
         }
       },
       "country_code": "RU",
@@ -11050,7 +11050,7 @@
         "local": {
           "symbol": "din",
           "code": "RSD",
-          "value": "191.57"
+          "value": "191.48"
         }
       },
       "diesel": {
@@ -11058,7 +11058,7 @@
         "local": {
           "symbol": "din",
           "code": "RSD",
-          "value": "217.43"
+          "value": "217.32"
         }
       },
       "lpg": {
@@ -11066,7 +11066,7 @@
         "local": {
           "symbol": "din",
           "code": "RSD",
-          "value": "109.3"
+          "value": "109.25"
         }
       },
       "country_code": "RS",
@@ -11486,7 +11486,7 @@
         "local": {
           "symbol": "kr",
           "code": "SEK",
-          "value": "17.07"
+          "value": "17.03"
         }
       },
       "diesel": {
@@ -11494,7 +11494,7 @@
         "local": {
           "symbol": "kr",
           "code": "SEK",
-          "value": "18.62"
+          "value": "18.58"
         }
       },
       "lpg": null,
@@ -11697,7 +11697,7 @@
         "local": {
           "symbol": "₺",
           "code": "TRY",
-          "value": "62.98"
+          "value": "63.14"
         }
       },
       "diesel": {
@@ -11705,7 +11705,7 @@
         "local": {
           "symbol": "₺",
           "code": "TRY",
-          "value": "64.58"
+          "value": "64.74"
         }
       },
       "lpg": null,
@@ -11799,7 +11799,7 @@
         "local": {
           "symbol": "₴",
           "code": "UAH",
-          "value": "74.74"
+          "value": "74.66"
         }
       },
       "diesel": {
@@ -11807,7 +11807,7 @@
         "local": {
           "symbol": "₴",
           "code": "UAH",
-          "value": "76.28"
+          "value": "76.2"
         }
       },
       "lpg": {
@@ -11815,7 +11815,7 @@
         "local": {
           "symbol": "₴",
           "code": "UAH",
-          "value": "40.44"
+          "value": "40.4"
         }
       },
       "country_code": "UA",
