@@ -239,16 +239,21 @@ def parse_fuel_prices(data, rates):
         currency_raw = item.get("currency", "€")
         currency_code = COUNTRY_TO_CURRENCY.get(country_name, "EUR")
         rate = rates.get(currency_code, 1.0)
+        prices_in_eur = currency_raw.strip() in ("€", "EUR")
         
         def to_eur(price):
             if price is None or price == 0:
                 return None
+            if prices_in_eur:
+                return round(price, 2)
             return round(price / rate, 2) if rate else price
         
         def to_local(price):
             if price is None:
                 return None
-            return round(price * rate, 2)
+            if prices_in_eur:
+                return round(price * rate, 2)
+            return round(price, 2)
         
         a95 = fuels.get("A95", {}).get("currentPrice")
         diesel = fuels.get("Diesel", {}).get("currentPrice")
