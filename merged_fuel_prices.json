@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T08:09:13.464230Z",
+  "updated_at": "2026-08-11T14:45:39.422476Z",
   "sources": [
     "america",
     "asia",
@@ -10923,7 +10923,7 @@
     "Czechia": {
       "continent": "europe",
       "gasoline95": {
-        "eur": "0.07",
+        "eur": "1.74",
         "local": {
           "symbol": "Kč",
           "code": "CZK",
@@ -10931,7 +10931,7 @@
         }
       },
       "diesel": {
-        "eur": "0.08",
+        "eur": "1.84",
         "local": {
           "symbol": "Kč",
           "code": "CZK",
@@ -10939,7 +10939,7 @@
         }
       },
       "lpg": {
-        "eur": "0.04",
+        "eur": "0.92",
         "local": {
           "symbol": "Kč",
           "code": "CZK",
@@ -11068,7 +11068,7 @@
     "Denmark": {
       "continent": "europe",
       "gasoline95": {
-        "eur": "0.33",
+        "eur": "2.46",
         "local": {
           "symbol": "kr.",
           "code": "DKK",
@@ -11076,7 +11076,7 @@
         }
       },
       "diesel": {
-        "eur": "0.3",
+        "eur": "2.26",
         "local": {
           "symbol": "kr.",
           "code": "DKK",
@@ -12049,7 +12049,7 @@
     "Hungary": {
       "continent": "europe",
       "gasoline95": {
-        "eur": "0.0",
+        "eur": "1.65",
         "local": {
           "symbol": "Ft",
           "code": "HUF",
@@ -12057,7 +12057,7 @@
         }
       },
       "diesel": {
-        "eur": "0.0",
+        "eur": "1.82",
         "local": {
           "symbol": "Ft",
           "code": "HUF",
@@ -12065,7 +12065,7 @@
         }
       },
       "lpg": {
-        "eur": "0.0",
+        "eur": "0.96",
         "local": {
           "symbol": "Ft",
           "code": "HUF",
@@ -14147,7 +14147,7 @@
     "Poland": {
       "continent": "europe",
       "gasoline95": {
-        "eur": "0.41",
+        "eur": "1.76",
         "local": {
           "symbol": "zł",
           "code": "PLN",
@@ -14155,7 +14155,7 @@
         }
       },
       "diesel": {
-        "eur": "0.44",
+        "eur": "1.88",
         "local": {
           "symbol": "zł",
           "code": "PLN",
@@ -14163,7 +14163,7 @@
         }
       },
       "lpg": {
-        "eur": "0.16",
+        "eur": "0.71",
         "local": {
           "symbol": "zł",
           "code": "PLN",
@@ -14437,7 +14437,7 @@
     "Romania": {
       "continent": "europe",
       "gasoline95": {
-        "eur": "0.34",
+        "eur": "1.8",
         "local": {
           "symbol": "lei",
           "code": "RON",
@@ -14445,7 +14445,7 @@
         }
       },
       "diesel": {
-        "eur": "0.39",
+        "eur": "2.03",
         "local": {
           "symbol": "lei",
           "code": "RON",
@@ -14453,7 +14453,7 @@
         }
       },
       "lpg": {
-        "eur": "0.17",
+        "eur": "0.88",
         "local": {
           "symbol": "lei",
           "code": "RON",
@@ -15434,7 +15434,7 @@
     "Sweden": {
       "continent": "europe",
       "gasoline95": {
-        "eur": "0.13",
+        "eur": "1.45",
         "local": {
           "symbol": "kr",
           "code": "SEK",
@@ -15442,7 +15442,7 @@
         }
       },
       "diesel": {
-        "eur": "0.17",
+        "eur": "1.82",
         "local": {
           "symbol": "kr",
           "code": "SEK",
@@ -15843,7 +15843,7 @@
     "Ukraine": {
       "continent": "europe",
       "gasoline95": {
-        "eur": "0.03",
+        "eur": "1.57",
         "local": {
           "symbol": "₴",
           "code": "UAH",
@@ -15851,7 +15851,7 @@
         }
       },
       "diesel": {
-        "eur": "0.03",
+        "eur": "1.79",
         "local": {
           "symbol": "₴",
           "code": "UAH",
@@ -15859,7 +15859,7 @@
         }
       },
       "lpg": {
-        "eur": "0.02",
+        "eur": "0.84",
         "local": {
           "symbol": "₴",
           "code": "UAH",
