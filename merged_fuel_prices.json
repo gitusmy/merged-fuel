@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T14:56:33.140413Z",
+  "updated_at": "2026-11-12T15:48:33.890084Z",
   "sources": [
     "america",
     "asia",
@@ -12,19 +12,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.27",
+        "eur": "1.29",
         "local": {
           "symbol": "$",
           "code": "ARS",
-          "value": "2199.67"
+          "value": "2223.97"
         }
       },
       "diesel": {
-        "eur": "1.42",
+        "eur": "1.44",
         "local": {
           "symbol": "$",
           "code": "ARS",
-          "value": "2459.47"
+          "value": "2482.57"
         }
       },
       "lpg": null,
@@ -210,15 +210,15 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.55",
+        "eur": "1.47",
         "local": {
           "symbol": "ƒ",
           "code": "AWG",
-          "value": "3.11"
+          "value": "2.93"
         }
       },
       "diesel": {
-        "eur": "1.67",
+        "eur": "1.68",
         "local": {
           "symbol": "ƒ",
           "code": "AWG",
@@ -408,15 +408,15 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.59",
+        "eur": "1.61",
         "local": {
           "symbol": "B$",
           "code": "BSD",
-          "value": "1.8"
+          "value": "1.81"
         }
       },
       "diesel": {
-        "eur": "1.51",
+        "eur": "1.52",
         "local": {
           "symbol": "B$",
           "code": "BSD",
@@ -606,19 +606,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.9",
+        "eur": "1.91",
         "local": {
           "symbol": "B$",
           "code": "BBD",
-          "value": "4.3"
+          "value": "4.35"
         }
       },
       "diesel": {
-        "eur": "1.69",
+        "eur": "1.7",
         "local": {
           "symbol": "B$",
           "code": "BBD",
-          "value": "3.82"
+          "value": "3.87"
         }
       },
       "lpg": null,
@@ -804,19 +804,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.71",
+        "eur": "1.72",
         "local": {
           "symbol": "BZ$",
           "code": "BZD",
-          "value": "3.88"
+          "value": "3.9"
         }
       },
       "diesel": {
-        "eur": "1.83",
+        "eur": "1.85",
         "local": {
           "symbol": "BZ$",
           "code": "BZD",
-          "value": "4.16"
+          "value": "4.19"
         }
       },
       "lpg": null,
@@ -1002,19 +1002,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.52",
+        "eur": "0.53",
         "local": {
           "symbol": "$b",
           "code": "BOB",
-          "value": "6.85"
+          "value": "6.93"
         }
       },
       "diesel": {
-        "eur": "1.33",
+        "eur": "1.37",
         "local": {
           "symbol": "$b",
           "code": "BOB",
-          "value": "17.53"
+          "value": "17.9"
         }
       },
       "lpg": null,
@@ -1204,7 +1204,7 @@
         "local": {
           "symbol": "R$",
           "code": "BRL",
-          "value": "6.52"
+          "value": "6.51"
         }
       },
       "diesel": {
@@ -1212,7 +1212,7 @@
         "local": {
           "symbol": "R$",
           "code": "BRL",
-          "value": "7.08"
+          "value": "7.07"
         }
       },
       "lpg": {
@@ -1220,7 +1220,7 @@
         "local": {
           "symbol": "R$",
           "code": "BRL",
-          "value": "4.54"
+          "value": "4.53"
         }
       },
       "country_code": "BR",
@@ -1405,19 +1405,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.2",
+        "eur": "1.14",
         "local": {
           "symbol": "C$",
           "code": "CAD",
-          "value": "1.9"
+          "value": "1.8"
         }
       },
       "diesel": {
-        "eur": "1.62",
+        "eur": "1.55",
         "local": {
           "symbol": "C$",
           "code": "CAD",
-          "value": "2.57"
+          "value": "2.45"
         }
       },
       "lpg": null,
@@ -1603,19 +1603,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.58",
+        "eur": "1.64",
         "local": {
           "symbol": "CI$",
           "code": "KYD",
-          "value": "1.48"
+          "value": "1.53"
         }
       },
       "diesel": {
-        "eur": "1.71",
+        "eur": "1.74",
         "local": {
           "symbol": "CI$",
           "code": "KYD",
-          "value": "1.6"
+          "value": "1.62"
         }
       },
       "lpg": null,
@@ -1801,27 +1801,27 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.39",
+        "eur": "1.41",
         "local": {
           "symbol": "$",
           "code": "CLP",
-          "value": "1518.28"
+          "value": "1542.03"
         }
       },
       "diesel": {
-        "eur": "1.39",
+        "eur": "1.36",
         "local": {
           "symbol": "$",
           "code": "CLP",
-          "value": "1518.28"
+          "value": "1487.35"
         }
       },
       "lpg": {
-        "eur": "0.65",
+        "eur": "0.67",
         "local": {
           "symbol": "$",
           "code": "CLP",
-          "value": "709.99"
+          "value": "732.74"
         }
       },
       "country_code": "CL",
@@ -2006,19 +2006,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.18",
+        "eur": "1.15",
         "local": {
           "symbol": "$",
           "code": "COP",
-          "value": "4340.26"
+          "value": "4222.03"
         }
       },
       "diesel": {
-        "eur": "0.84",
+        "eur": "0.82",
         "local": {
           "symbol": "$",
           "code": "COP",
-          "value": "3089.68"
+          "value": "3010.49"
         }
       },
       "lpg": null,
@@ -2204,19 +2204,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.59",
+        "eur": "1.6",
         "local": {
           "symbol": "₡",
           "code": "CRC",
-          "value": "802.84"
+          "value": "804.75"
         }
       },
       "diesel": {
-        "eur": "1.59",
+        "eur": "1.61",
         "local": {
           "symbol": "₡",
           "code": "CRC",
-          "value": "802.84"
+          "value": "809.78"
         }
       },
       "lpg": null,
@@ -2402,19 +2402,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.79",
+        "eur": "1.8",
         "local": {
           "symbol": "₱",
           "code": "CUP",
-          "value": "48.12"
+          "value": "48.1"
         }
       },
       "diesel": {
-        "eur": "1.79",
+        "eur": "1.8",
         "local": {
           "symbol": "₱",
           "code": "CUP",
-          "value": "48.12"
+          "value": "48.1"
         }
       },
       "lpg": null,
@@ -2600,7 +2600,7 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.41",
+        "eur": "1.42",
         "local": {
           "symbol": "ƒ",
           "code": "ANG",
@@ -2608,7 +2608,7 @@
         }
       },
       "diesel": {
-        "eur": "1.49",
+        "eur": "1.5",
         "local": {
           "symbol": "ƒ",
           "code": "ANG",
@@ -2798,19 +2798,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.42",
+        "eur": "1.43",
         "local": {
           "symbol": "EC$",
           "code": "XCD",
-          "value": "4.36"
+          "value": "4.37"
         }
       },
       "diesel": {
-        "eur": "1.44",
+        "eur": "1.45",
         "local": {
           "symbol": "EC$",
           "code": "XCD",
-          "value": "4.42"
+          "value": "4.43"
         }
       },
       "lpg": null,
@@ -3000,7 +3000,7 @@
         "local": {
           "symbol": "RD$",
           "code": "DOP",
-          "value": "84.3"
+          "value": "84.01"
         }
       },
       "diesel": {
@@ -3008,7 +3008,7 @@
         "local": {
           "symbol": "RD$",
           "code": "DOP",
-          "value": "71.96"
+          "value": "71.72"
         }
       },
       "lpg": {
@@ -3016,7 +3016,7 @@
         "local": {
           "symbol": "RD$",
           "code": "DOP",
-          "value": "69.22"
+          "value": "68.98"
         }
       },
       "country_code": "DO",
@@ -3081,11 +3081,11 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.75",
+        "eur": "0.74",
         "local": {
           "symbol": "$",
           "code": "USD",
-          "value": "0.84"
+          "value": "0.82"
         }
       },
       "diesel": {
@@ -3093,7 +3093,7 @@
         "local": {
           "symbol": "$",
           "code": "USD",
-          "value": "0.82"
+          "value": "0.81"
         }
       },
       "lpg": null,
@@ -3279,7 +3279,7 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.21",
+        "eur": "1.22",
         "local": {
           "symbol": "$",
           "code": "USD",
@@ -3287,7 +3287,7 @@
         }
       },
       "diesel": {
-        "eur": "1.15",
+        "eur": "1.16",
         "local": {
           "symbol": "$",
           "code": "USD",
@@ -3477,19 +3477,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.24",
+        "eur": "1.25",
         "local": {
           "symbol": "EC$",
           "code": "XCD",
-          "value": "3.81"
+          "value": "3.82"
         }
       },
       "diesel": {
-        "eur": "1.24",
+        "eur": "1.25",
         "local": {
           "symbol": "EC$",
           "code": "XCD",
-          "value": "3.81"
+          "value": "3.82"
         }
       },
       "lpg": null,
@@ -3675,19 +3675,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.1",
+        "eur": "1.04",
         "local": {
           "symbol": "Q",
           "code": "GTQ",
-          "value": "9.42"
+          "value": "8.9"
         }
       },
       "diesel": {
-        "eur": "1.35",
+        "eur": "1.31",
         "local": {
           "symbol": "Q",
           "code": "GTQ",
-          "value": "11.56"
+          "value": "11.21"
         }
       },
       "lpg": null,
@@ -3873,19 +3873,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.1",
+        "eur": "1.11",
         "local": {
           "symbol": "G$",
           "code": "GYD",
-          "value": "260.83"
+          "value": "262.26"
         }
       },
       "diesel": {
-        "eur": "1.36",
+        "eur": "1.37",
         "local": {
           "symbol": "G$",
           "code": "GYD",
-          "value": "322.48"
+          "value": "323.69"
         }
       },
       "lpg": null,
@@ -4071,19 +4071,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.17",
+        "eur": "1.18",
         "local": {
           "symbol": "G",
           "code": "HTG",
-          "value": "171.69"
+          "value": "173.0"
         }
       },
       "diesel": {
-        "eur": "1.26",
+        "eur": "1.27",
         "local": {
           "symbol": "G",
           "code": "HTG",
-          "value": "184.89"
+          "value": "186.19"
         }
       },
       "lpg": null,
@@ -4269,27 +4269,27 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.3",
+        "eur": "1.29",
         "local": {
           "symbol": "L",
           "code": "HNL",
-          "value": "39.19"
+          "value": "38.85"
         }
       },
       "diesel": {
-        "eur": "1.32",
+        "eur": "1.34",
         "local": {
           "symbol": "L",
           "code": "HNL",
-          "value": "39.79"
+          "value": "40.35"
         }
       },
       "lpg": {
-        "eur": "0.52",
+        "eur": "0.54",
         "local": {
           "symbol": "L",
           "code": "HNL",
-          "value": "15.68"
+          "value": "16.26"
         }
       },
       "country_code": "HN",
@@ -4474,19 +4474,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.15",
+        "eur": "1.13",
         "local": {
           "symbol": "J$",
           "code": "JMD",
-          "value": "203.73"
+          "value": "199.31"
         }
       },
       "diesel": {
-        "eur": "1.39",
+        "eur": "1.37",
         "local": {
           "symbol": "J$",
           "code": "JMD",
-          "value": "246.25"
+          "value": "241.64"
         }
       },
       "lpg": null,
@@ -4672,19 +4672,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.14",
+        "eur": "1.15",
         "local": {
           "symbol": "MX$",
           "code": "MXN",
-          "value": "23.72"
+          "value": "23.86"
         }
       },
       "diesel": {
-        "eur": "1.3",
+        "eur": "1.31",
         "local": {
           "symbol": "MX$",
           "code": "MXN",
-          "value": "27.05"
+          "value": "27.18"
         }
       },
       "lpg": null,
@@ -4870,19 +4870,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.19",
+        "eur": "1.2",
         "local": {
           "symbol": "C$",
           "code": "NIO",
-          "value": "48.82"
+          "value": "48.93"
         }
       },
       "diesel": {
-        "eur": "1.05",
+        "eur": "1.06",
         "local": {
           "symbol": "C$",
           "code": "NIO",
-          "value": "43.08"
+          "value": "43.22"
         }
       },
       "lpg": null,
@@ -5068,19 +5068,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.18",
+        "eur": "1.19",
         "local": {
           "symbol": "B.",
           "code": "PAB",
-          "value": "1.32"
+          "value": "1.33"
         }
       },
       "diesel": {
-        "eur": "1.37",
+        "eur": "1.39",
         "local": {
           "symbol": "B.",
           "code": "PAB",
-          "value": "1.53"
+          "value": "1.56"
         }
       },
       "lpg": null,
@@ -5270,7 +5270,7 @@
         "local": {
           "symbol": "₲",
           "code": "PYG",
-          "value": "7782.88"
+          "value": "7753.76"
         }
       },
       "diesel": {
@@ -5278,7 +5278,7 @@
         "local": {
           "symbol": "₲",
           "code": "PYG",
-          "value": "9659.11"
+          "value": "9622.97"
         }
       },
       "lpg": {
@@ -5286,7 +5286,7 @@
         "local": {
           "symbol": "₲",
           "code": "PYG",
-          "value": "4377.87"
+          "value": "4361.49"
         }
       },
       "country_code": "PY",
@@ -5471,27 +5471,27 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.49",
+        "eur": "1.53",
         "local": {
           "symbol": "S/.",
           "code": "PEN",
-          "value": "5.7"
+          "value": "5.82"
         }
       },
       "diesel": {
-        "eur": "1.7",
+        "eur": "1.74",
         "local": {
           "symbol": "S/.",
           "code": "PEN",
-          "value": "6.5"
+          "value": "6.62"
         }
       },
       "lpg": {
-        "eur": "0.56",
+        "eur": "0.57",
         "local": {
           "symbol": "S/.",
           "code": "PEN",
-          "value": "2.14"
+          "value": "2.17"
         }
       },
       "country_code": "PE",
@@ -5676,19 +5676,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.13",
+        "eur": "1.07",
         "local": {
           "symbol": "$",
           "code": "USD",
-          "value": "1.27"
+          "value": "1.19"
         }
       },
       "diesel": {
-        "eur": "1.31",
+        "eur": "1.25",
         "local": {
           "symbol": "$",
           "code": "USD",
-          "value": "1.47"
+          "value": "1.39"
         }
       },
       "lpg": null,
@@ -5874,19 +5874,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.25",
+        "eur": "1.27",
         "local": {
           "symbol": "EC$",
           "code": "XCD",
-          "value": "3.84"
+          "value": "3.88"
         }
       },
       "diesel": {
-        "eur": "1.25",
+        "eur": "1.27",
         "local": {
           "symbol": "EC$",
           "code": "XCD",
-          "value": "3.84"
+          "value": "3.88"
         }
       },
       "lpg": null,
@@ -6072,19 +6072,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.15",
+        "eur": "1.16",
         "local": {
           "symbol": "Sr$",
           "code": "SRD",
-          "value": "48.42"
+          "value": "48.86"
         }
       },
       "diesel": {
-        "eur": "1.27",
+        "eur": "1.28",
         "local": {
           "symbol": "Sr$",
           "code": "SRD",
-          "value": "53.47"
+          "value": "53.91"
         }
       },
       "lpg": null,
@@ -6270,7 +6270,7 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.02",
+        "eur": "1.03",
         "local": {
           "symbol": "TT$",
           "code": "TTD",
@@ -6278,11 +6278,11 @@
         }
       },
       "diesel": {
-        "eur": "0.58",
+        "eur": "0.59",
         "local": {
           "symbol": "TT$",
           "code": "TTD",
-          "value": "4.39"
+          "value": "4.42"
         }
       },
       "lpg": null,
@@ -6468,19 +6468,19 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.21",
+        "eur": "1.18",
         "local": {
           "symbol": "$",
           "code": "USD",
-          "value": "1.36"
+          "value": "1.31"
         }
       },
       "diesel": {
-        "eur": "1.48",
+        "eur": "1.45",
         "local": {
           "symbol": "$",
           "code": "USD",
-          "value": "1.66"
+          "value": "1.61"
         }
       },
       "lpg": null,
@@ -6666,11 +6666,11 @@
       "continent": "americas",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.01",
+        "eur": "2.02",
         "local": {
           "symbol": "U$",
           "code": "UYU",
-          "value": "91.1"
+          "value": "90.92"
         }
       },
       "diesel": {
@@ -6678,7 +6678,7 @@
         "local": {
           "symbol": "U$",
           "code": "UYU",
-          "value": "63.45"
+          "value": "63.01"
         }
       },
       "lpg": null,
@@ -6868,7 +6868,7 @@
         "local": {
           "symbol": "Bs",
           "code": "VES",
-          "value": "30.26"
+          "value": "30.21"
         }
       },
       "diesel": {
@@ -7062,27 +7062,27 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.22",
+        "eur": "1.18",
         "local": {
           "symbol": "؋",
           "code": "AFN",
-          "value": "89.21"
+          "value": "85.95"
         }
       },
       "diesel": {
-        "eur": "1.16",
+        "eur": "1.15",
         "local": {
           "symbol": "؋",
           "code": "AFN",
-          "value": "84.82"
+          "value": "83.76"
         }
       },
       "lpg": {
-        "eur": "0.89",
+        "eur": "0.83",
         "local": {
           "symbol": "؋",
           "code": "AFN",
-          "value": "65.08"
+          "value": "60.45"
         }
       },
       "country_code": "AF",
@@ -7273,19 +7273,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.56",
+        "eur": "1.58",
         "local": {
           "symbol": "֏",
           "code": "AMD",
-          "value": "630.07"
+          "value": "635.46"
         }
       },
       "diesel": {
-        "eur": "1.76",
+        "eur": "1.78",
         "local": {
           "symbol": "֏",
           "code": "AMD",
-          "value": "710.85"
+          "value": "715.9"
         }
       },
       "lpg": {
@@ -7293,7 +7293,7 @@
         "local": {
           "symbol": "֏",
           "code": "AMD",
-          "value": "242.33"
+          "value": "241.31"
         }
       },
       "country_code": "AM",
@@ -7484,11 +7484,11 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.6",
+        "eur": "0.61",
         "local": {
           "symbol": "₼",
           "code": "AZN",
-          "value": "1.14"
+          "value": "1.16"
         }
       },
       "diesel": {
@@ -7703,7 +7703,7 @@
         }
       },
       "diesel": {
-        "eur": "0.54",
+        "eur": "0.55",
         "local": {
           "symbol": "د.ب",
           "code": "BHD",
@@ -7899,19 +7899,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.18",
+        "eur": "1.19",
         "local": {
           "symbol": "৳",
           "code": "BDT",
-          "value": "164.75"
+          "value": "165.6"
         }
       },
       "diesel": {
-        "eur": "0.97",
+        "eur": "0.98",
         "local": {
           "symbol": "৳",
           "code": "BDT",
-          "value": "135.43"
+          "value": "136.38"
         }
       },
       "lpg": null,
@@ -8103,19 +8103,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.99",
-        "local": {
-          "symbol": "Nu.",
-          "code": "INR",
-          "value": "104.08"
-        }
-      },
-      "diesel": {
         "eur": "1.01",
         "local": {
           "symbol": "Nu.",
           "code": "INR",
-          "value": "106.18"
+          "value": "105.38"
+        }
+      },
+      "diesel": {
+        "eur": "1.03",
+        "local": {
+          "symbol": "Nu.",
+          "code": "INR",
+          "value": "107.47"
         }
       },
       "lpg": null,
@@ -8307,19 +8307,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.33",
+        "eur": "1.35",
         "local": {
           "symbol": "៛",
           "code": "KHR",
-          "value": "6077.04"
+          "value": "6149.06"
         }
       },
       "diesel": {
-        "eur": "1.24",
+        "eur": "1.25",
         "local": {
           "symbol": "៛",
           "code": "KHR",
-          "value": "5665.81"
+          "value": "5693.57"
         }
       },
       "lpg": null,
@@ -8511,19 +8511,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.28",
+        "eur": "1.29",
         "local": {
           "symbol": "元",
           "code": "CNY",
-          "value": "9.56"
+          "value": "9.57"
         }
       },
       "diesel": {
-        "eur": "1.15",
+        "eur": "1.16",
         "local": {
           "symbol": "元",
           "code": "CNY",
-          "value": "8.59"
+          "value": "8.61"
         }
       },
       "lpg": null,
@@ -8715,19 +8715,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "3.94",
+        "eur": "3.99",
         "local": {
           "symbol": "HK$",
           "code": "HKD",
-          "value": "34.65"
+          "value": "34.88"
         }
       },
       "diesel": {
-        "eur": "4.31",
+        "eur": "4.3",
         "local": {
           "symbol": "HK$",
           "code": "HKD",
-          "value": "37.9"
+          "value": "37.59"
         }
       },
       "lpg": null,
@@ -8923,7 +8923,7 @@
         "local": {
           "symbol": "₹",
           "code": "INR",
-          "value": "108.28"
+          "value": "107.47"
         }
       },
       "diesel": {
@@ -8931,7 +8931,7 @@
         "local": {
           "symbol": "₹",
           "code": "INR",
-          "value": "99.87"
+          "value": "99.12"
         }
       },
       "lpg": null,
@@ -9123,19 +9123,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.94",
+        "eur": "0.96",
         "local": {
           "symbol": "Rp",
           "code": "IDR",
-          "value": "19063.2"
+          "value": "19424.64"
         }
       },
       "diesel": {
-        "eur": "1.25",
+        "eur": "1.27",
         "local": {
           "symbol": "Rp",
           "code": "IDR",
-          "value": "25350.0"
+          "value": "25697.18"
         }
       },
       "lpg": null,
@@ -9331,7 +9331,7 @@
         "local": {
           "symbol": "﷼",
           "code": "IRR",
-          "value": "64290.06"
+          "value": "64060.56"
         }
       },
       "diesel": {
@@ -9339,7 +9339,7 @@
         "local": {
           "symbol": "﷼",
           "code": "IRR",
-          "value": "21430.02"
+          "value": "21353.52"
         }
       },
       "lpg": null,
@@ -9531,11 +9531,11 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.5",
+        "eur": "0.51",
         "local": {
           "symbol": "د.ع",
           "code": "IQD",
-          "value": "848.59"
+          "value": "861.74"
         }
       },
       "diesel": null,
@@ -9728,27 +9728,27 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.15",
+        "eur": "2.3",
         "local": {
           "symbol": "₪",
           "code": "ILS",
-          "value": "7.62"
+          "value": "8.13"
         }
       },
       "diesel": {
-        "eur": "2.04",
+        "eur": "2.18",
         "local": {
           "symbol": "₪",
           "code": "ILS",
-          "value": "7.23"
+          "value": "7.71"
         }
       },
       "lpg": {
-        "eur": "1.24",
+        "eur": "1.25",
         "local": {
           "symbol": "₪",
           "code": "ILS",
-          "value": "4.4"
+          "value": "4.42"
         }
       },
       "country_code": "IL",
@@ -9943,7 +9943,7 @@
         "local": {
           "symbol": "¥",
           "code": "JPY",
-          "value": "170.34"
+          "value": "170.25"
         }
       },
       "diesel": {
@@ -9951,7 +9951,7 @@
         "local": {
           "symbol": "¥",
           "code": "JPY",
-          "value": "159.7"
+          "value": "159.61"
         }
       },
       "lpg": null,
@@ -10143,15 +10143,15 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.73",
+        "eur": "1.75",
         "local": {
           "symbol": "د.أ",
           "code": "JOD",
-          "value": "1.37"
+          "value": "1.38"
         }
       },
       "diesel": {
-        "eur": "1.13",
+        "eur": "1.14",
         "local": {
           "symbol": "د.أ",
           "code": "JOD",
@@ -10347,20 +10347,20 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.62",
+        "eur": "0.63",
         "local": {
           "symbol": "₸",
           "code": "KZT",
-          "value": "310.72"
+          "value": "313.15"
         }
       },
       "diesel": null,
       "lpg": {
-        "eur": "0.99",
+        "eur": "1.01",
         "local": {
           "symbol": "₸",
           "code": "KZT",
-          "value": "496.15"
+          "value": "502.04"
         }
       },
       "country_code": "KZ",
@@ -10755,19 +10755,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.15",
+        "eur": "1.16",
         "local": {
           "symbol": "сом",
           "code": "KGS",
-          "value": "112.65"
+          "value": "113.13"
         }
       },
       "diesel": {
-        "eur": "1.03",
+        "eur": "1.04",
         "local": {
           "symbol": "сом",
           "code": "KGS",
-          "value": "100.9"
+          "value": "101.43"
         }
       },
       "lpg": null,
@@ -10963,7 +10963,7 @@
         "local": {
           "symbol": "₭",
           "code": "LAK",
-          "value": "40174.4"
+          "value": "40019.2"
         }
       },
       "diesel": {
@@ -10971,7 +10971,7 @@
         "local": {
           "symbol": "₭",
           "code": "LAK",
-          "value": "33897.15"
+          "value": "33766.2"
         }
       },
       "lpg": null,
@@ -11163,27 +11163,27 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.27",
+        "eur": "1.22",
         "local": {
           "symbol": "LL",
           "code": "LBP",
-          "value": "128296.67"
+          "value": "122692.96"
         }
       },
       "diesel": {
-        "eur": "1.29",
+        "eur": "1.28",
         "local": {
           "symbol": "LL",
           "code": "LBP",
-          "value": "130317.09"
+          "value": "128727.04"
         }
       },
       "lpg": {
-        "eur": "0.8",
+        "eur": "0.82",
         "local": {
           "symbol": "LL",
           "code": "LBP",
-          "value": "80816.8"
+          "value": "82465.76"
         }
       },
       "country_code": "LB",
@@ -11374,19 +11374,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.95",
+        "eur": "0.86",
         "local": {
           "symbol": "RM",
           "code": "MYR",
-          "value": "4.32"
+          "value": "3.9"
         }
       },
       "diesel": {
-        "eur": "1.12",
+        "eur": "1.08",
         "local": {
           "symbol": "RM",
           "code": "MYR",
-          "value": "5.09"
+          "value": "4.9"
         }
       },
       "lpg": null,
@@ -11578,19 +11578,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.93",
+        "eur": "0.94",
         "local": {
           "symbol": "Rf",
           "code": "MVR",
-          "value": "16.07"
+          "value": "16.18"
         }
       },
       "diesel": {
-        "eur": "1.01",
+        "eur": "1.03",
         "local": {
           "symbol": "Rf",
           "code": "MVR",
-          "value": "17.45"
+          "value": "17.73"
         }
       },
       "lpg": null,
@@ -11782,27 +11782,27 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.79",
+        "eur": "1.81",
         "local": {
           "symbol": "₮",
           "code": "MNT",
-          "value": "7220.07"
+          "value": "7272.27"
         }
       },
       "diesel": {
-        "eur": "1.93",
+        "eur": "1.94",
         "local": {
           "symbol": "₮",
           "code": "MNT",
-          "value": "7784.77"
+          "value": "7794.59"
         }
       },
       "lpg": {
-        "eur": "0.83",
+        "eur": "0.84",
         "local": {
           "symbol": "₮",
           "code": "MNT",
-          "value": "3347.85"
+          "value": "3374.98"
         }
       },
       "country_code": "MN",
@@ -11997,15 +11997,15 @@
         "local": {
           "symbol": "K",
           "code": "MMK",
-          "value": "3057.03"
+          "value": "3041.51"
         }
       },
       "diesel": {
-        "eur": "1.29",
+        "eur": "1.32",
         "local": {
           "symbol": "K",
           "code": "MMK",
-          "value": "3033.51"
+          "value": "3088.3"
         }
       },
       "lpg": null,
@@ -12197,7 +12197,7 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.55",
+        "eur": "0.56",
         "local": {
           "symbol": "﷼",
           "code": "OMR",
@@ -12405,7 +12405,7 @@
         "local": {
           "symbol": "₨",
           "code": "PKR",
-          "value": "369.29"
+          "value": "367.22"
         }
       },
       "diesel": {
@@ -12413,7 +12413,7 @@
         "local": {
           "symbol": "₨",
           "code": "PKR",
-          "value": "391.02"
+          "value": "388.82"
         }
       },
       "lpg": null,
@@ -12605,11 +12605,11 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.18",
+        "eur": "1.37",
         "local": {
           "symbol": "₱",
           "code": "PHP",
-          "value": "83.3"
+          "value": "96.69"
         }
       },
       "diesel": {
@@ -12617,15 +12617,15 @@
         "local": {
           "symbol": "₱",
           "code": "PHP",
-          "value": "93.88"
+          "value": "93.87"
         }
       },
       "lpg": {
-        "eur": "0.67",
+        "eur": "0.68",
         "local": {
           "symbol": "₱",
           "code": "PHP",
-          "value": "47.3"
+          "value": "47.99"
         }
       },
       "country_code": "PH",
@@ -12820,7 +12820,7 @@
         "local": {
           "symbol": "QR",
           "code": "QAR",
-          "value": "2.12"
+          "value": "2.11"
         }
       },
       "diesel": {
@@ -12828,7 +12828,7 @@
         "local": {
           "symbol": "QR",
           "code": "QAR",
-          "value": "2.08"
+          "value": "2.07"
         }
       },
       "lpg": null,
@@ -13020,19 +13020,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.55",
+        "eur": "0.56",
         "local": {
           "symbol": "SAR",
           "code": "SAR",
-          "value": "2.31"
+          "value": "2.34"
         }
       },
       "diesel": {
-        "eur": "0.42",
+        "eur": "0.43",
         "local": {
           "symbol": "SAR",
           "code": "SAR",
-          "value": "1.76"
+          "value": "1.8"
         }
       },
       "lpg": {
@@ -13231,15 +13231,15 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.25",
+        "eur": "2.26",
         "local": {
           "symbol": "S$",
           "code": "SGD",
-          "value": "3.22"
+          "value": "3.23"
         }
       },
       "diesel": {
-        "eur": "2.53",
+        "eur": "2.54",
         "local": {
           "symbol": "S$",
           "code": "SGD",
@@ -13439,7 +13439,7 @@
         "local": {
           "symbol": "₩",
           "code": "KRW",
-          "value": "1876.71"
+          "value": "1859.14"
         }
       },
       "diesel": {
@@ -13447,7 +13447,7 @@
         "local": {
           "symbol": "₩",
           "code": "KRW",
-          "value": "1861.7"
+          "value": "1844.26"
         }
       },
       "lpg": {
@@ -13455,7 +13455,7 @@
         "local": {
           "symbol": "₩",
           "code": "KRW",
-          "value": "1186.08"
+          "value": "1174.97"
         }
       },
       "country_code": "KR",
@@ -13650,7 +13650,7 @@
         "local": {
           "symbol": "₨",
           "code": "LKR",
-          "value": "476.28"
+          "value": "473.79"
         }
       },
       "diesel": {
@@ -13658,7 +13658,7 @@
         "local": {
           "symbol": "₨",
           "code": "LKR",
-          "value": "528.37"
+          "value": "525.61"
         }
       },
       "lpg": null,
@@ -13850,19 +13850,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.49",
+        "eur": "1.5",
         "local": {
           "symbol": "£S",
           "code": "SYP",
-          "value": "203.74"
+          "value": "204.47"
         }
       },
       "diesel": {
-        "eur": "1.34",
+        "eur": "1.35",
         "local": {
           "symbol": "£S",
           "code": "SYP",
-          "value": "183.23"
+          "value": "184.02"
         }
       },
       "lpg": null,
@@ -14054,27 +14054,27 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.89",
+        "eur": "0.9",
         "local": {
           "symbol": "NT$",
           "code": "TWD",
-          "value": "32.78"
+          "value": "33.0"
         }
       },
       "diesel": {
-        "eur": "0.81",
+        "eur": "0.82",
         "local": {
           "symbol": "NT$",
           "code": "TWD",
-          "value": "29.83"
+          "value": "30.06"
         }
       },
       "lpg": {
-        "eur": "0.44",
+        "eur": "0.45",
         "local": {
           "symbol": "NT$",
           "code": "TWD",
-          "value": "16.21"
+          "value": "16.5"
         }
       },
       "country_code": "TW",
@@ -14269,7 +14269,7 @@
         "local": {
           "symbol": "฿",
           "code": "THB",
-          "value": "50.66"
+          "value": "50.64"
         }
       },
       "diesel": {
@@ -14277,7 +14277,7 @@
         "local": {
           "symbol": "฿",
           "code": "THB",
-          "value": "42.4"
+          "value": "42.38"
         }
       },
       "lpg": null,
@@ -14469,19 +14469,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "0.38",
+        "eur": "0.39",
         "local": {
           "symbol": "T",
           "code": "TMT",
-          "value": "1.49"
+          "value": "1.52"
         }
       },
       "diesel": {
-        "eur": "0.25",
+        "eur": "0.26",
         "local": {
           "symbol": "T",
           "code": "TMT",
-          "value": "0.98"
+          "value": "1.01"
         }
       },
       "lpg": null,
@@ -14677,7 +14677,7 @@
         "local": {
           "symbol": "AED",
           "code": "AED",
-          "value": "4.03"
+          "value": "4.01"
         }
       },
       "diesel": {
@@ -14685,7 +14685,7 @@
         "local": {
           "symbol": "AED",
           "code": "AED",
-          "value": "4.77"
+          "value": "4.74"
         }
       },
       "lpg": null,
@@ -14877,19 +14877,19 @@
       "continent": "asia",
       "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.38",
+        "eur": "1.4",
         "local": {
           "symbol": "лв",
           "code": "UZS",
-          "value": "18507.18"
+          "value": "18676.0"
         }
       },
       "diesel": {
-        "eur": "1.29",
+        "eur": "1.31",
         "local": {
           "symbol": "лв",
           "code": "UZS",
-          "value": "17300.19"
+          "value": "17475.4"
         }
       },
       "lpg": null,
@@ -15085,7 +15085,7 @@
         "local": {
           "symbol": "₫",
           "code": "VND",
-          "value": "23862.5"
+          "value": "23783.65"
         }
       },
       "diesel": {
@@ -15093,7 +15093,7 @@
         "local": {
           "symbol": "₫",
           "code": "VND",
-          "value": "29037.5"
+          "value": "28941.55"
         }
       },
       "lpg": null,
@@ -15283,13 +15283,13 @@
     },
     "Albania": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "1.97",
         "local": {
           "symbol": "Lek",
           "code": "ALL",
-          "value": "178.76"
+          "value": "178.86"
         }
       },
       "diesel": {
@@ -15297,7 +15297,7 @@
         "local": {
           "symbol": "Lek",
           "code": "ALL",
-          "value": "211.42"
+          "value": "211.54"
         }
       },
       "lpg": {
@@ -15305,11 +15305,17 @@
         "local": {
           "symbol": "Lek",
           "code": "ALL",
-          "value": "68.96"
+          "value": "69.0"
         }
       },
       "country_code": "AL",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.97",
+          "diesel": "2.33",
+          "lpg": "0.76"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "2.1",
@@ -15483,37 +15489,37 @@
           "gasoline95": "2.08",
           "diesel": "2.24",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "2.08",
-          "diesel": "2.24",
-          "lpg": null
         }
       ]
     },
     "Andorra": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.52",
+        "eur": "1.46",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.52"
+          "value": "1.46"
         }
       },
       "diesel": {
-        "eur": "1.73",
+        "eur": "1.69",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.73"
+          "value": "1.69"
         }
       },
       "lpg": null,
       "country_code": "AD",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.46",
+          "diesel": "1.69",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.55",
@@ -15530,25 +15536,25 @@
     },
     "Austria": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.75",
+        "eur": "1.67",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.75"
+          "value": "1.67"
         }
       },
       "diesel": {
-        "eur": "2.15",
+        "eur": "2.09",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.15"
+          "value": "2.09"
         }
       },
       "lpg": null,
       "country_code": "AT",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -15734,13 +15740,13 @@
     },
     "Belarus": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "0.82",
         "local": {
           "symbol": "Br",
           "code": "BYN",
-          "value": "2.75"
+          "value": "2.74"
         }
       },
       "diesel": {
@@ -15748,7 +15754,7 @@
         "local": {
           "symbol": "Br",
           "code": "BYN",
-          "value": "2.75"
+          "value": "2.74"
         }
       },
       "lpg": {
@@ -15761,6 +15767,12 @@
       },
       "country_code": "BY",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "0.82",
+          "diesel": "0.82",
+          "lpg": "0.4"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "0.82",
@@ -15934,43 +15946,37 @@
           "gasoline95": "0.8",
           "diesel": "0.8",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "0.79",
-          "diesel": "0.79",
-          "lpg": null
         }
       ]
     },
     "Belgium": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.91",
+        "eur": "1.84",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.91"
+          "value": "1.84"
         }
       },
       "diesel": {
-        "eur": "2.4",
+        "eur": "2.36",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.4"
+          "value": "2.36"
         }
       },
       "lpg": {
-        "eur": "1.11",
+        "eur": "1.05",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.11"
+          "value": "1.05"
         }
       },
       "country_code": "BE",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -16156,33 +16162,39 @@
     },
     "Bosnia and Herzegovina": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.7",
+        "eur": "1.69",
         "local": {
           "symbol": "KM",
           "code": "BAM",
-          "value": "3.32"
+          "value": "3.31"
         }
       },
       "diesel": {
-        "eur": "1.95",
+        "eur": "1.98",
         "local": {
           "symbol": "KM",
           "code": "BAM",
-          "value": "3.81"
+          "value": "3.87"
         }
       },
       "lpg": {
-        "eur": "0.75",
+        "eur": "0.77",
         "local": {
           "symbol": "KM",
           "code": "BAM",
-          "value": "1.47"
+          "value": "1.51"
         }
       },
       "country_code": "BA",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.69",
+          "diesel": "1.98",
+          "lpg": "0.77"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.7",
@@ -16356,43 +16368,37 @@
           "gasoline95": "1.38",
           "diesel": "1.71",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.38",
-          "diesel": "1.71",
-          "lpg": null
         }
       ]
     },
     "Bulgaria": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.6",
+        "eur": "1.58",
         "local": {
           "symbol": "лв.",
           "code": "BGN",
-          "value": "1.6"
+          "value": "1.58"
         }
       },
       "diesel": {
-        "eur": "1.89",
+        "eur": "1.9",
         "local": {
           "symbol": "лв.",
           "code": "BGN",
-          "value": "1.89"
+          "value": "1.9"
         }
       },
       "lpg": {
-        "eur": "0.64",
+        "eur": "0.7",
         "local": {
           "symbol": "лв.",
           "code": "BGN",
-          "value": "0.64"
+          "value": "0.7"
         }
       },
       "country_code": "BG",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -16578,6 +16584,7 @@
     },
     "Croatia": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "1.75",
         "local": {
@@ -16587,23 +16594,22 @@
         }
       },
       "diesel": {
-        "eur": "2.01",
+        "eur": "2.02",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.01"
+          "value": "2.02"
         }
       },
       "lpg": {
-        "eur": "1.04",
+        "eur": "1.09",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.04"
+          "value": "1.09"
         }
       },
       "country_code": "HR",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -16789,16 +16795,17 @@
     },
     "Cyprus": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.72",
+        "eur": "1.7",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.72"
+          "value": "1.7"
         }
       },
       "diesel": {
-        "eur": "2",
+        "eur": "2.0",
         "local": {
           "symbol": "€",
           "code": "EUR",
@@ -16807,7 +16814,6 @@
       },
       "lpg": null,
       "country_code": "CY",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -16993,32 +16999,32 @@
     },
     "Czechia": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.77",
+        "eur": "1.65",
         "local": {
           "symbol": "Kč",
           "code": "CZK",
-          "value": "43.09"
+          "value": "40.25"
         }
       },
       "diesel": {
-        "eur": "1.98",
+        "eur": "1.9",
         "local": {
           "symbol": "Kč",
           "code": "CZK",
-          "value": "48.21"
+          "value": "46.35"
         }
       },
       "lpg": {
-        "eur": "0.96",
+        "eur": "1.07",
         "local": {
           "symbol": "Kč",
           "code": "CZK",
-          "value": "23.37"
+          "value": "26.1"
         }
       },
       "country_code": "CZ",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -17204,25 +17210,25 @@
     },
     "Denmark": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.5",
+        "eur": "2.39",
         "local": {
           "symbol": "kr.",
           "code": "DKK",
-          "value": "18.69"
+          "value": "17.88"
         }
       },
       "diesel": {
-        "eur": "2.53",
+        "eur": "2.43",
         "local": {
           "symbol": "kr.",
           "code": "DKK",
-          "value": "18.92"
+          "value": "18.18"
         }
       },
       "lpg": null,
       "country_code": "DK",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -17408,32 +17414,32 @@
     },
     "Estonia": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.86",
+        "eur": "1.81",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.86"
+          "value": "1.81"
         }
       },
       "diesel": {
-        "eur": "2.11",
+        "eur": "2.08",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.11"
+          "value": "2.08"
         }
       },
       "lpg": {
-        "eur": "0.99",
+        "eur": "1.01",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "0.99"
+          "value": "1.01"
         }
       },
       "country_code": "EE",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -17619,25 +17625,25 @@
     },
     "Finland": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.21",
+        "eur": "2.14",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.21"
+          "value": "2.14"
         }
       },
       "diesel": {
-        "eur": "2.43",
+        "eur": "2.48",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.43"
+          "value": "2.48"
         }
       },
       "lpg": null,
       "country_code": "FI",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -17823,32 +17829,32 @@
     },
     "France": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.16",
+        "eur": "2.09",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.16"
+          "value": "2.09"
         }
       },
       "diesel": {
-        "eur": "2.37",
+        "eur": "2.18",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.37"
+          "value": "2.18"
         }
       },
       "lpg": {
-        "eur": "1.04",
+        "eur": "1.05",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.04"
+          "value": "1.05"
         }
       },
       "country_code": "FR",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -18034,26 +18040,32 @@
     },
     "Georgia": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.48",
+        "eur": "1.5",
         "local": {
           "symbol": "₾",
           "code": "GEL",
-          "value": "4.3"
+          "value": "4.33"
         }
       },
       "diesel": {
-        "eur": "1.73",
+        "eur": "1.75",
         "local": {
           "symbol": "₾",
           "code": "GEL",
-          "value": "5.02"
+          "value": "5.05"
         }
       },
       "lpg": null,
       "country_code": "GE",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.5",
+          "diesel": "1.75",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.48",
@@ -18227,31 +18239,26 @@
           "gasoline95": "1.13",
           "diesel": "1.26",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.12",
-          "diesel": "1.22",
-          "lpg": null
         }
       ]
     },
     "Germany": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.13",
+        "eur": "2.07",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.13"
+          "value": "2.07"
         }
       },
       "diesel": {
-        "eur": "2.28",
+        "eur": "2.25",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.28"
+          "value": "2.25"
         }
       },
       "lpg": {
@@ -18263,7 +18270,6 @@
         }
       },
       "country_code": "DE",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -18449,25 +18455,25 @@
     },
     "Greece": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.13",
+        "eur": "2.04",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.13"
+          "value": "2.04"
         }
       },
       "diesel": {
-        "eur": "2.14",
+        "eur": "2.1",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.14"
+          "value": "2.1"
         }
       },
       "lpg": null,
       "country_code": "GR",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -18653,12 +18659,13 @@
     },
     "Hungary": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.75",
+        "eur": "1.67",
         "local": {
           "symbol": "Ft",
           "code": "HUF",
-          "value": "635.74"
+          "value": "609.75"
         }
       },
       "diesel": {
@@ -18666,19 +18673,18 @@
         "local": {
           "symbol": "Ft",
           "code": "HUF",
-          "value": "719.29"
+          "value": "722.94"
         }
       },
       "lpg": {
-        "eur": "1.06",
+        "eur": "1.1",
         "local": {
           "symbol": "Ft",
           "code": "HUF",
-          "value": "385.08"
+          "value": "401.63"
         }
       },
       "country_code": "HU",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -18864,26 +18870,32 @@
     },
     "Iceland": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.02",
+        "eur": "2.0",
         "local": {
           "symbol": "kr",
           "code": "ISK",
-          "value": "276.94"
+          "value": "273.82"
         }
       },
       "diesel": {
-        "eur": "2.4",
+        "eur": "2.38",
         "local": {
           "symbol": "kr",
           "code": "ISK",
-          "value": "329.04"
+          "value": "325.85"
         }
       },
       "lpg": null,
       "country_code": "IS",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "2.0",
+          "diesel": "2.38",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "2.02",
@@ -19057,23 +19069,18 @@
           "gasoline95": "1.66",
           "diesel": "1.92",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.64",
-          "diesel": "1.89",
-          "lpg": null
         }
       ]
     },
     "Ireland": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.97",
+        "eur": "1.96",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.97"
+          "value": "1.96"
         }
       },
       "diesel": {
@@ -19086,7 +19093,6 @@
       },
       "lpg": null,
       "country_code": "IE",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -19272,8 +19278,9 @@
     },
     "Italy": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2",
+        "eur": "2.0",
         "local": {
           "symbol": "€",
           "code": "EUR",
@@ -19281,23 +19288,22 @@
         }
       },
       "diesel": {
-        "eur": "2.24",
+        "eur": "2.22",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.24"
+          "value": "2.22"
         }
       },
       "lpg": {
-        "eur": "0.79",
+        "eur": "0.8",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "0.79"
+          "value": "0.8"
         }
       },
       "country_code": "IT",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -19483,32 +19489,32 @@
     },
     "Latvia": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.87",
+        "eur": "1.85",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.87"
+          "value": "1.85"
         }
       },
       "diesel": {
-        "eur": "2.1",
+        "eur": "2.08",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.1"
+          "value": "2.08"
         }
       },
       "lpg": {
-        "eur": "1.08",
+        "eur": "1.09",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.08"
+          "value": "1.09"
         }
       },
       "country_code": "LV",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -19694,7 +19700,7 @@
     },
     "Liechtenstein": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "2.31",
         "local": {
@@ -19708,12 +19714,18 @@
         "local": {
           "symbol": "CHF",
           "code": "CHF",
-          "value": "2.43"
+          "value": "2.44"
         }
       },
       "lpg": null,
       "country_code": "LI",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "2.31",
+          "diesel": "2.64",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "2.32",
@@ -19887,23 +19899,18 @@
           "gasoline95": "2.14",
           "diesel": "2.37",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "2.15",
-          "diesel": "2.47",
-          "lpg": null
         }
       ]
     },
     "Lithuania": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.87",
+        "eur": "1.84",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.87"
+          "value": "1.84"
         }
       },
       "diesel": {
@@ -19915,15 +19922,14 @@
         }
       },
       "lpg": {
-        "eur": "0.94",
+        "eur": "1.0",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "0.94"
+          "value": "1.0"
         }
       },
       "country_code": "LT",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -20109,32 +20115,32 @@
     },
     "Luxembourg": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.76",
+        "eur": "1.63",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.76"
+          "value": "1.63"
         }
       },
       "diesel": {
-        "eur": "2.11",
+        "eur": "1.99",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.11"
+          "value": "1.99"
         }
       },
       "lpg": {
-        "eur": "0.97",
+        "eur": "0.93",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "0.97"
+          "value": "0.93"
         }
       },
       "country_code": "LU",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -20320,6 +20326,7 @@
     },
     "Malta": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "1.34",
         "local": {
@@ -20338,7 +20345,6 @@
       },
       "lpg": null,
       "country_code": "MT",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -20524,13 +20530,13 @@
     },
     "Moldova": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "1.5",
         "local": {
           "symbol": "lei",
           "code": "MDL",
-          "value": "30.16"
+          "value": "30.12"
         }
       },
       "diesel": {
@@ -20538,7 +20544,7 @@
         "local": {
           "symbol": "lei",
           "code": "MDL",
-          "value": "35.39"
+          "value": "35.34"
         }
       },
       "lpg": {
@@ -20546,11 +20552,17 @@
         "local": {
           "symbol": "lei",
           "code": "MDL",
-          "value": "18.5"
+          "value": "18.47"
         }
       },
       "country_code": "MD",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.5",
+          "diesel": "1.76",
+          "lpg": "0.92"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.54",
@@ -20724,18 +20736,12 @@
           "gasoline95": "1.44",
           "diesel": "1.48",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.47",
-          "diesel": "1.61",
-          "lpg": null
         }
       ]
     },
     "Monaco": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "2.07",
         "local": {
@@ -20755,6 +20761,12 @@
       "lpg": null,
       "country_code": "MC",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "2.07",
+          "diesel": "2.38",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "2.09",
@@ -20928,18 +20940,12 @@
           "gasoline95": "2.02",
           "diesel": "2.21",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "2.1",
-          "diesel": "2.22",
-          "lpg": null
         }
       ]
     },
     "Montenegro": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "1.81",
         "local": {
@@ -20959,6 +20965,12 @@
       "lpg": null,
       "country_code": "ME",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.81",
+          "diesel": "1.97",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.8",
@@ -21132,43 +21144,37 @@
           "gasoline95": "1.53",
           "diesel": "1.69",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.55",
-          "diesel": "1.71",
-          "lpg": null
         }
       ]
     },
     "Netherlands": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.28",
+        "eur": "2.2",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.28"
+          "value": "2.2"
         }
       },
       "diesel": {
-        "eur": "2.47",
+        "eur": "2.36",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.47"
+          "value": "2.36"
         }
       },
       "lpg": {
-        "eur": "1.02",
+        "eur": "1.03",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.02"
+          "value": "1.03"
         }
       },
       "country_code": "NL",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -21354,21 +21360,21 @@
     },
     "North Macedonia": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.51",
+        "eur": "1.4",
         "local": {
           "symbol": "den",
           "code": "MKD",
-          "value": "92.98"
+          "value": "86.4"
         }
       },
       "diesel": {
-        "eur": "1.63",
+        "eur": "1.54",
         "local": {
           "symbol": "den",
           "code": "MKD",
-          "value": "100.37"
+          "value": "95.03"
         }
       },
       "lpg": {
@@ -21376,11 +21382,17 @@
         "local": {
           "symbol": "den",
           "code": "MKD",
-          "value": "54.8"
+          "value": "54.92"
         }
       },
       "country_code": "MK",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.4",
+          "diesel": "1.54",
+          "lpg": "0.89"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.51",
@@ -21554,24 +21566,18 @@
           "gasoline95": "1.29",
           "diesel": "1.51",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.33",
-          "diesel": "1.55",
-          "lpg": null
         }
       ]
     },
     "Norway": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "2.71",
         "local": {
           "symbol": "kr",
           "code": "NOK",
-          "value": "28.73"
+          "value": "28.76"
         }
       },
       "diesel": {
@@ -21579,12 +21585,18 @@
         "local": {
           "symbol": "kr",
           "code": "NOK",
-          "value": "28.62"
+          "value": "28.66"
         }
       },
       "lpg": null,
       "country_code": "NO",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "2.71",
+          "diesel": "2.7",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "2.75",
@@ -21758,43 +21770,37 @@
           "gasoline95": "1.95",
           "diesel": "2.06",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.97",
-          "diesel": "2.21",
-          "lpg": null
         }
       ]
     },
     "Poland": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.46",
+        "eur": "1.38",
         "local": {
           "symbol": "zł",
           "code": "PLN",
-          "value": "6.41"
+          "value": "6.08"
         }
       },
       "diesel": {
-        "eur": "1.81",
+        "eur": "1.75",
         "local": {
           "symbol": "zł",
           "code": "PLN",
-          "value": "7.95"
+          "value": "7.71"
         }
       },
       "lpg": {
-        "eur": "0.85",
+        "eur": "0.9",
         "local": {
           "symbol": "zł",
           "code": "PLN",
-          "value": "3.73"
+          "value": "3.96"
         }
       },
       "country_code": "PL",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -21980,32 +21986,32 @@
     },
     "Portugal": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.01",
+        "eur": "1.92",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.01"
+          "value": "1.92"
         }
       },
       "diesel": {
-        "eur": "2.21",
+        "eur": "2.14",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "2.21"
+          "value": "2.14"
         }
       },
       "lpg": {
-        "eur": "0.97",
+        "eur": "1.02",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "0.97"
+          "value": "1.02"
         }
       },
       "country_code": "PT",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -22191,32 +22197,32 @@
     },
     "Romania": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.88",
+        "eur": "1.84",
         "local": {
           "symbol": "lei",
           "code": "RON",
-          "value": "10.05"
+          "value": "9.85"
         }
       },
       "diesel": {
-        "eur": "2.07",
+        "eur": "2.03",
         "local": {
           "symbol": "lei",
           "code": "RON",
-          "value": "11.06"
+          "value": "10.86"
         }
       },
       "lpg": {
-        "eur": "0.88",
+        "eur": "0.89",
         "local": {
           "symbol": "lei",
           "code": "RON",
-          "value": "4.7"
+          "value": "4.76"
         }
       },
       "country_code": "RO",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -22402,13 +22408,13 @@
     },
     "Russia": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "0.77",
         "local": {
           "symbol": "₽",
           "code": "RUB",
-          "value": "71.42"
+          "value": "71.0"
         }
       },
       "diesel": {
@@ -22416,7 +22422,7 @@
         "local": {
           "symbol": "₽",
           "code": "RUB",
-          "value": "80.69"
+          "value": "80.22"
         }
       },
       "lpg": {
@@ -22424,11 +22430,17 @@
         "local": {
           "symbol": "₽",
           "code": "RUB",
-          "value": "53.79"
+          "value": "53.48"
         }
       },
       "country_code": "RU",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "0.77",
+          "diesel": "0.87",
+          "lpg": "0.58"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "0.83",
@@ -22602,18 +22614,12 @@
           "gasoline95": "0.69",
           "diesel": "0.8",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "0.75",
-          "diesel": "0.87",
-          "lpg": null
         }
       ]
     },
     "San Marino": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "1.73",
         "local": {
@@ -22640,6 +22646,12 @@
       },
       "country_code": "SM",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.73",
+          "diesel": "2.08",
+          "lpg": "0.76"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.71",
@@ -22813,24 +22825,18 @@
           "gasoline95": "1.5",
           "diesel": "1.84",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.52",
-          "diesel": "1.96",
-          "lpg": null
         }
       ]
     },
     "Serbia": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "1.76",
         "local": {
           "symbol": "din",
           "code": "RSD",
-          "value": "206.98"
+          "value": "207.13"
         }
       },
       "diesel": {
@@ -22838,7 +22844,7 @@
         "local": {
           "symbol": "din",
           "code": "RSD",
-          "value": "236.38"
+          "value": "236.56"
         }
       },
       "lpg": {
@@ -22846,11 +22852,17 @@
         "local": {
           "symbol": "din",
           "code": "RSD",
-          "value": "109.37"
+          "value": "109.45"
         }
       },
       "country_code": "RS",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.76",
+          "diesel": "2.01",
+          "lpg": "0.93"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.75",
@@ -23024,43 +23036,37 @@
           "gasoline95": "1.63",
           "diesel": "1.85",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.63",
-          "diesel": "1.85",
-          "lpg": null
         }
       ]
     },
     "Slovakia": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.79",
+        "eur": "1.69",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.79"
+          "value": "1.69"
         }
       },
       "diesel": {
-        "eur": "1.98",
+        "eur": "1.97",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.98"
+          "value": "1.97"
         }
       },
       "lpg": {
-        "eur": "0.89",
+        "eur": "0.96",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "0.89"
+          "value": "0.96"
         }
       },
       "country_code": "SK",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -23246,32 +23252,32 @@
     },
     "Slovenia": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.68",
+        "eur": "1.63",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.68"
+          "value": "1.63"
         }
       },
       "diesel": {
-        "eur": "1.94",
+        "eur": "1.95",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.94"
+          "value": "1.95"
         }
       },
       "lpg": {
-        "eur": "1.02",
+        "eur": "1.03",
         "local": {
           "symbol": "€",
           "code": "EUR",
-          "value": "1.02"
+          "value": "1.03"
         }
       },
       "country_code": "SI",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -23457,6 +23463,7 @@
     },
     "Spain": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
         "eur": "1.73",
         "local": {
@@ -23482,7 +23489,6 @@
         }
       },
       "country_code": "ES",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -23668,25 +23674,25 @@
     },
     "Sweden": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.55",
+        "eur": "1.44",
         "local": {
           "symbol": "kr",
           "code": "SEK",
-          "value": "17.07"
+          "value": "15.92"
         }
       },
       "diesel": {
-        "eur": "2.06",
+        "eur": "1.95",
         "local": {
           "symbol": "kr",
           "code": "SEK",
-          "value": "22.68"
+          "value": "21.56"
         }
       },
       "lpg": null,
       "country_code": "SE",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -23872,33 +23878,39 @@
     },
     "Switzerland": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.32",
+        "eur": "2.15",
         "local": {
           "symbol": "CHF",
           "code": "CHF",
-          "value": "2.14"
+          "value": "1.99"
         }
       },
       "diesel": {
-        "eur": "2.62",
+        "eur": "2.55",
         "local": {
           "symbol": "CHF",
           "code": "CHF",
-          "value": "2.41"
+          "value": "2.35"
         }
       },
       "lpg": {
-        "eur": "1.3",
+        "eur": "1.31",
         "local": {
           "symbol": "CHF",
           "code": "CHF",
-          "value": "1.2"
+          "value": "1.21"
         }
       },
       "country_code": "CH",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "2.15",
+          "diesel": "2.55",
+          "lpg": "1.31"
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "2.32",
@@ -24072,37 +24084,37 @@
           "gasoline95": "2.06",
           "diesel": "2.36",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "2.04",
-          "diesel": "2.4",
-          "lpg": null
         }
       ]
     },
     "Turkey": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.43",
+        "eur": "1.27",
         "local": {
           "symbol": "₺",
           "code": "TRY",
-          "value": "80.45"
+          "value": "71.05"
         }
       },
       "diesel": {
-        "eur": "1.79",
+        "eur": "1.71",
         "local": {
           "symbol": "₺",
           "code": "TRY",
-          "value": "100.7"
+          "value": "95.67"
         }
       },
       "lpg": null,
       "country_code": "TR",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "1.27",
+          "diesel": "1.71",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "1.43",
@@ -24276,43 +24288,37 @@
           "gasoline95": "1.08",
           "diesel": "1.18",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.08",
-          "diesel": "1.21",
-          "lpg": null
         }
       ]
     },
     "Ukraine": {
       "continent": "europe",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "1.74",
+        "eur": "1.76",
         "local": {
           "symbol": "₴",
           "code": "UAH",
-          "value": "88.59"
+          "value": "88.93"
         }
       },
       "diesel": {
-        "eur": "2.04",
+        "eur": "2.06",
         "local": {
           "symbol": "₴",
           "code": "UAH",
-          "value": "103.87"
+          "value": "104.09"
         }
       },
       "lpg": {
-        "eur": "1.19",
+        "eur": "1.2",
         "local": {
           "symbol": "₴",
           "code": "UAH",
-          "value": "60.59"
+          "value": "60.63"
         }
       },
       "country_code": "UA",
-      "data_date": "2026-11-09",
       "history": [
         {
           "data_date": "2026-11-09",
@@ -24498,13 +24504,13 @@
     },
     "United Kingdom": {
       "continent": "europe",
-      "data_date": "2026-11-02",
+      "data_date": "2026-11-09",
       "gasoline95": {
-        "eur": "2.07",
+        "eur": "2.05",
         "local": {
           "symbol": "£",
           "code": "GBP",
-          "value": "1.73"
+          "value": "1.71"
         }
       },
       "diesel": {
@@ -24518,6 +24524,12 @@
       "lpg": null,
       "country_code": "GB",
       "history": [
+        {
+          "data_date": "2026-11-09",
+          "gasoline95": "2.05",
+          "diesel": "2.38",
+          "lpg": null
+        },
         {
           "data_date": "2026-11-02",
           "gasoline95": "2.07",
@@ -24691,12 +24703,6 @@
           "gasoline95": "1.81",
           "diesel": "2.2",
           "lpg": null
-        },
-        {
-          "data_date": "2026-04-13",
-          "gasoline95": "1.81",
-          "diesel": "2.21",
-          "lpg": null
         }
       ]
     },
@@ -24707,7 +24713,7 @@
         "local": {
           "symbol": "EGP",
           "code": "EGP",
-          "value": "20.36"
+          "value": "20.28"
         }
       },
       "diesel": null,
@@ -24748,7 +24754,7 @@
         "local": {
           "symbol": "NGN",
           "code": "NGN",
-          "value": "1284.2"
+          "value": "1278.59"
         }
       },
       "diesel": null,
@@ -24789,7 +24795,7 @@
         "local": {
           "symbol": "SDG",
           "code": "SDG",
-          "value": "652.65"
+          "value": "651.94"
         }
       },
       "diesel": null,
@@ -24830,7 +24836,7 @@
         "local": {
           "symbol": "TZS",
           "code": "TZS",
-          "value": "3877.48"
+          "value": "3863.64"
         }
       },
       "diesel": null,
@@ -24871,7 +24877,7 @@
         "local": {
           "symbol": "GHS",
           "code": "GHS",
-          "value": "18.21"
+          "value": "18.14"
         }
       },
       "diesel": null,
@@ -24994,7 +25000,7 @@
         "local": {
           "symbol": "KES",
           "code": "KES",
-          "value": "218.16"
+          "value": "217.11"
         }
       },
       "diesel": null,
@@ -25035,7 +25041,7 @@
         "local": {
           "symbol": "ZAR",
           "code": "ZAR",
-          "value": "28.14"
+          "value": "28.19"
         }
       },
       "diesel": null,
@@ -25076,7 +25082,7 @@
         "local": {
           "symbol": "ZWG",
           "code": "ZWG",
-          "value": "52.09"
+          "value": "51.79"
         }
       },
       "diesel": null,
